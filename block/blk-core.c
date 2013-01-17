@@ -1991,8 +1991,9 @@ bool blk_update_request(struct request *req, int error, unsigned int nr_bytes)
 			}
 
 			nbytes = bio_iovec_idx(bio, idx)->bv_len;
-			BIO_BUG_ON(nbytes > bio->bi_size);
-
+#ifdef CONFIG_BLOCK
+			BUG_ON(nbytes > bio->bi_size);
+#endif
 			/*
 			 * not a complete bvec done
 			 */

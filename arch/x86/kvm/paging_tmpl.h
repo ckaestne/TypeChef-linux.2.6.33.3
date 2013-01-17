@@ -34,9 +34,7 @@
 	#define PT_LEVEL_BITS PT64_LEVEL_BITS
 	#ifdef CONFIG_X86_64
 	#define PT_MAX_FULL_LEVELS 4
-	#define CMPXCHG cmpxchg
 	#else
-	#define CMPXCHG cmpxchg64
 	#define PT_MAX_FULL_LEVELS 2
 	#endif
 #elif PTTYPE == 32
@@ -50,7 +48,6 @@
 	#define PT_LEVEL_MASK(level) PT32_LEVEL_MASK(level)
 	#define PT_LEVEL_BITS PT32_LEVEL_BITS
 	#define PT_MAX_FULL_LEVELS 2
-	#define CMPXCHG cmpxchg
 #else
 	#error Invalid PTTYPE value
 #endif
@@ -89,7 +86,16 @@ static bool FNAME(cmpxchg_gpte)(struct kvm *kvm,
 	page = gfn_to_page(kvm, table_gfn);
 
 	table = kmap_atomic(page, KM_USER0);
-	ret = CMPXCHG(&table[index], orig_pte, new_pte);
+//line changed due to preprocessor bug, ChK
+#if PTTYPE == 64
+        #ifdef CONFIG_X86_64
+        ret = cmpxchg(&table[index], orig_pte, new_pte);
+        #else
+        ret = cmpxchg64(&table[index], orig_pte, new_pte);
+        #endif
+#else
+        ret = cmpxchg(&table[index], orig_pte, new_pte);
+#endif
 	kunmap_atomic(table, KM_USER0);
 
 	kvm_release_page_dirty(page);

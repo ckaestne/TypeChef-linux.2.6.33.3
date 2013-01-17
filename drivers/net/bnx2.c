@@ -6538,17 +6538,13 @@ bnx2_close(struct net_device *dev)
 	return 0;
 }
 
-#define GET_NET_STATS64(ctr)					\
+#if (BITS_PER_LONG == 64)
+#define GET_NET_STATS(ctr)					\
 	(unsigned long) ((unsigned long) (ctr##_hi) << 32) +	\
 	(unsigned long) (ctr##_lo)
-
-#define GET_NET_STATS32(ctr)		\
-	(ctr##_lo)
-
-#if (BITS_PER_LONG == 64)
-#define GET_NET_STATS	GET_NET_STATS64
 #else
-#define GET_NET_STATS	GET_NET_STATS32
+#define GET_NET_STATS(ctr)		\
+	(ctr##_lo)
 #endif
 
 static struct net_device_stats *
