@@ -1,0 +1,14 @@
+won't fix, feature model problem?
+I have another request right away. This time, it's about the feature DEBUG_NX_TEST:
+
+
+config DEBUG_NX_TEST
+        tristate "Testcase for the NX non-executable stack feature"
+        depends on DEBUG_KERNEL && m
+        ---help---
+          This option enables a testcase for the CPU NX capability
+          and the software setup of this feature.
+          If in doubt, say "N"
+
+
+How do I have to interpret "depends on m"? May it only be selected as CONFIG_DEBUG_NX_TEST_MODULE but not as CONFIG_DEBUG_NX_TEST? Then CONFIG_DEBUG_NX_TEST should be dead in the feature model? (in Reinhards model it is dead).
