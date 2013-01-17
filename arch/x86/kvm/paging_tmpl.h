@@ -25,7 +25,7 @@
 #if PTTYPE == 64
 	#define pt_element_t u64
 	#define guest_walker guest_walker64
-	#define FNAME(name) paging##64_##name
+	#define FNAME(name) paging##64##_##name
 	#define PT_BASE_ADDR_MASK PT64_BASE_ADDR_MASK
 	#define PT_LVL_ADDR_MASK(lvl) PT64_LVL_ADDR_MASK(lvl)
 	#define PT_LVL_OFFSET_MASK(lvl) PT64_LVL_OFFSET_MASK(lvl)
@@ -42,7 +42,7 @@
 #elif PTTYPE == 32
 	#define pt_element_t u32
 	#define guest_walker guest_walker32
-	#define FNAME(name) paging##32_##name
+	#define FNAME(name) paging##32##_##name
 	#define PT_BASE_ADDR_MASK PT32_BASE_ADDR_MASK
 	#define PT_LVL_ADDR_MASK(lvl) PT32_LVL_ADDR_MASK(lvl)
 	#define PT_LVL_OFFSET_MASK(lvl) PT32_LVL_OFFSET_MASK(lvl)
