@@ -1,0 +1,4 @@
+found actual warning assignment types again (as wrap_buf)
+
+drivers/staging/rt2860/common/ba_action.c:1407:2: warning: assignment makes integer from pointer     without a cast [enabled by default]
+

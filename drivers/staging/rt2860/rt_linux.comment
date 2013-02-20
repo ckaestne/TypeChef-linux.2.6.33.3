@@ -1,0 +1,9 @@
+actual warning in assignment (as before)
+
+drivers/staging/rt2860/rt_linux.c: In function ‘ClonePacket’:
+drivers/staging/rt2860/rt_linux.c:518:20: warning: assignment makes integer from pointer without a   cast [enabled by default]
+drivers/staging/rt2860/rt_linux.c: In function ‘update_os_packet_info’:
+drivers/staging/rt2860/rt_linux.c:538:15: warning: assignment makes integer from pointer without a   cast [enabled by default]
+drivers/staging/rt2860/rt_linux.c: In function ‘wlan_802_11_to_802_3_packet’:
+drivers/staging/rt2860/rt_linux.c:556:15: warning: assignment makes integer from pointer without a   cast [enabled by default]
+

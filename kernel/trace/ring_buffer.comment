@@ -1,1 +1,6 @@
-expression level, initializer type
+actual type warning
+
+kernel/trace/ring_buffer.c: In function ‘rb_tail_page_update’:
+kernel/trace/ring_buffer.c:867:14: warning: initialization makes pointer from integer without a cast [enabled by default]
+kernel/trace/ring_buffer.c:867:14: warning: initialization makes pointer from integer without a cast [enabled by default]
+
