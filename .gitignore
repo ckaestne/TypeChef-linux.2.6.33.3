@@ -81,3 +81,5 @@ GTAGS
 *.time
 *.i.xml
 *.dbg.init
+_dir.*
+db.properties
