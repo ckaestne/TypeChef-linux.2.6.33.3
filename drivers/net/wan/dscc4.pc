@@ -1,0 +1,1 @@
+(definedEx(CONFIG_DSCC4) && definedEx(CONFIG_WAN))

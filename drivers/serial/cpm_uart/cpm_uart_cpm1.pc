@@ -1,0 +1,1 @@
+(definedEx(CONFIG_8xx) && definedEx(CONFIG_SERIAL_CPM))

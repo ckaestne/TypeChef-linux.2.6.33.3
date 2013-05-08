@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SND_TIMER) && definedEx(CONFIG_SND))

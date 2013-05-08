@@ -1,0 +1,1 @@
+(definedEx(CONFIG_XENFS) && definedEx(CONFIG_XEN))

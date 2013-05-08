@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SND_ML403_AC97CR) && definedEx(CONFIG_SND))

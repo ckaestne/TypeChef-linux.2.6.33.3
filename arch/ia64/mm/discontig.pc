@@ -1,0 +1,1 @@
+(definedEx(CONFIG_DISCONTIGMEM) || definedEx(CONFIG_SPARSEMEM))

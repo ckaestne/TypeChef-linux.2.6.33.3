@@ -1,0 +1,1 @@
+(definedEx(CONFIG_PARIDE_DSTR) && definedEx(CONFIG_PARIDE))

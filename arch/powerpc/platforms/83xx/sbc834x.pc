@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SBC834x) && definedEx(CONFIG_PPC_83xx))

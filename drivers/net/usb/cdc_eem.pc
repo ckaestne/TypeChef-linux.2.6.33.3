@@ -1,0 +1,1 @@
+(definedEx(CONFIG_USB_NET_CDC_EEM) && (definedEx(CONFIG_USB_HSO) || definedEx(CONFIG_USB_PEGASUS) || definedEx(CONFIG_USB_ZD1201) || definedEx(CONFIG_USB_CATC) || definedEx(CONFIG_USB_KAWETH) || definedEx(CONFIG_USB_USBNET) || definedEx(CONFIG_USB_RTL8150)))

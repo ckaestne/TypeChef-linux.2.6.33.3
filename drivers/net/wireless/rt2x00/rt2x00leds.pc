@@ -1,0 +1,1 @@
+(definedEx(CONFIG_RT2X00_LIB) && definedEx(CONFIG_RT2X00) && definedEx(CONFIG_RT2X00_LIB_LEDS))

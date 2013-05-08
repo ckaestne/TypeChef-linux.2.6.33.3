@@ -1,0 +1,1 @@
+(definedEx(CONFIG_COMEDI) && definedEx(CONFIG_STAGING) && definedEx(CONFIG_COMEDI_USB_DRIVERS))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_FB_NVIDIA_I2C) && definedEx(CONFIG_FB_NVIDIA))

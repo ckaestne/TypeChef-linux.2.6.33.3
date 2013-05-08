@@ -1,0 +1,1 @@
+(definedEx(CONFIG_FSCACHE_STATS) && definedEx(CONFIG_FSCACHE))

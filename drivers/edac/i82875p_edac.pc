@@ -1,0 +1,1 @@
+(definedEx(CONFIG_EDAC_I82875P) && definedEx(CONFIG_EDAC))

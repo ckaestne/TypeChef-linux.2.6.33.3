@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SND_AW2) && definedEx(CONFIG_SND))

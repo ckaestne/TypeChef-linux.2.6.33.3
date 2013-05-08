@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SND_GUSMAX) && definedEx(CONFIG_SND))

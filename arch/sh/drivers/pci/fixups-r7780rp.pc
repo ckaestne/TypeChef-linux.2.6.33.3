@@ -1,0 +1,1 @@
+(definedEx(CONFIG_PCI) && (definedEx(CONFIG_SH_HIGHLANDER) || definedEx(CONFIG_SH_SH7785LCR)))

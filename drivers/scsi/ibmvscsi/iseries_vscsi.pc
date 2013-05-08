@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SCSI) && (definedEx(CONFIG_SCSI_IBMVSCSI) || definedEx(CONFIG_SCSI_IBMVSCSIS) || definedEx(CONFIG_SCSI_IBMVFC)) && definedEx(CONFIG_SCSI_IBMVSCSI) && definedEx(CONFIG_PPC_ISERIES))

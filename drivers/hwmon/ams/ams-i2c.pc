@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SENSORS_AMS) && definedEx(CONFIG_HWMON) && definedEx(CONFIG_SENSORS_AMS_I2C))

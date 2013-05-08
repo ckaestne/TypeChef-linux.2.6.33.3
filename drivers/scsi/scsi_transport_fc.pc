@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SCSI_FC_ATTRS) && definedEx(CONFIG_SCSI))

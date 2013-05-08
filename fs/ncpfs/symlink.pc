@@ -1,0 +1,1 @@
+(definedEx(CONFIG_NCP_FS) && (definedEx(CONFIG_NCPFS_EXTRAS) || definedEx(CONFIG_NCPFS_NFS_NS)))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_64BIT) && definedEx(CONFIG_X86_LOCAL_APIC))

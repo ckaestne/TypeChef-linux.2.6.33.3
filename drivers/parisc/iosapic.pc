@@ -1,0 +1,1 @@
+(definedEx(CONFIG_IOSAPIC) && definedEx(CONFIG_PARISC))

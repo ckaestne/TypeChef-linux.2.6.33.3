@@ -1,0 +1,1 @@
+(definedEx(CONFIG_KS959_DONGLE) && definedEx(CONFIG_IRDA))

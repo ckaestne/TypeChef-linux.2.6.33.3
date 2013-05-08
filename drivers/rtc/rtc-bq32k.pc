@@ -1,0 +1,1 @@
+(definedEx(CONFIG_RTC_DRV_BQ32K) && definedEx(CONFIG_RTC_LIB))

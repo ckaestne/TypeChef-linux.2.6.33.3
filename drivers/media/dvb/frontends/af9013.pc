@@ -1,0 +1,1 @@
+(definedEx(CONFIG_DVB_AF9013) && definedEx(CONFIG_DVB_CORE))

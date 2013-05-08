@@ -1,0 +1,1 @@
+(definedEx(CONFIG_POHMELFS) && definedEx(CONFIG_STAGING))

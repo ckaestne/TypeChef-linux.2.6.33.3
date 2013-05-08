@@ -1,0 +1,1 @@
+(definedEx(CONFIG_X86_ACPI_CPUFREQ) && definedEx(CONFIG_CPU_FREQ))

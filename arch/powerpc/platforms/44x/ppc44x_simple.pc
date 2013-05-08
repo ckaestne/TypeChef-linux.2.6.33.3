@@ -1,0 +1,1 @@
+(definedEx(CONFIG_PPC44x_SIMPLE) && definedEx(CONFIG_44x))

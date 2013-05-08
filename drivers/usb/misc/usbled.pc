@@ -1,0 +1,1 @@
+(definedEx(CONFIG_USB_LED) && definedEx(CONFIG_USB))

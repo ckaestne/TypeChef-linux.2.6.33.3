@@ -1,0 +1,1 @@
+(definedEx(CONFIG_PARPORT_AMIGA) && definedEx(CONFIG_PARPORT))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_RTC_DRV_M48T35) && definedEx(CONFIG_RTC_LIB))

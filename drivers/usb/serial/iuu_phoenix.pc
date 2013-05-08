@@ -1,0 +1,1 @@
+(definedEx(CONFIG_USB_SERIAL) && (definedEx(CONFIG_USB) || definedEx(CONFIG_PCI)) && definedEx(CONFIG_USB_SERIAL_IUU))

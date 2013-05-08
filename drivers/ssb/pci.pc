@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SSB_PCIHOST) && definedEx(CONFIG_SSB))

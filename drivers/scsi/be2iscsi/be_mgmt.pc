@@ -1,0 +1,1 @@
+(definedEx(CONFIG_BE2ISCSI) && definedEx(CONFIG_SCSI))

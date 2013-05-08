@@ -1,0 +1,1 @@
+definedEx(CONFIG_FSL_LBC)

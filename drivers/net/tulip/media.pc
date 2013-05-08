@@ -1,0 +1,1 @@
+(definedEx(CONFIG_TULIP) && definedEx(CONFIG_NET_TULIP))

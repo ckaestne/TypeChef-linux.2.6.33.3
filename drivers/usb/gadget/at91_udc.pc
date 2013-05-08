@@ -1,0 +1,1 @@
+(definedEx(CONFIG_USB_AT91) && definedEx(CONFIG_USB_GADGET))

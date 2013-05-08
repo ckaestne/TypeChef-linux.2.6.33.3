@@ -1,0 +1,1 @@
+(definedEx(CONFIG_CBE_THERM) && definedEx(CONFIG_PPC_CELL))

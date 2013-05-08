@@ -1,0 +1,1 @@
+(definedEx(CONFIG_BATTERY_MAX17040) && definedEx(CONFIG_POWER_SUPPLY))

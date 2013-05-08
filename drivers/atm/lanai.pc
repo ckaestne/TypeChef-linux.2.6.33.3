@@ -1,0 +1,1 @@
+(definedEx(CONFIG_ATM_LANAI) && definedEx(CONFIG_ATM))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_REGULATOR_DA903X) && definedEx(CONFIG_REGULATOR))

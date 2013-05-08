@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SENSORS_VT1211) && definedEx(CONFIG_HWMON))

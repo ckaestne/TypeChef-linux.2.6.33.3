@@ -1,0 +1,1 @@
+(definedEx(CONFIG_PATA_TRIFLEX) && definedEx(CONFIG_ATA))

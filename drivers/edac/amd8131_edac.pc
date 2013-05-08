@@ -1,0 +1,1 @@
+(definedEx(CONFIG_EDAC_AMD8131) && definedEx(CONFIG_EDAC))

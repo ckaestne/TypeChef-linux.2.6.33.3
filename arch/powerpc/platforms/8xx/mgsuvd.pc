@@ -1,0 +1,1 @@
+(definedEx(CONFIG_PPC_MGSUVD) && definedEx(CONFIG_PPC_8xx))

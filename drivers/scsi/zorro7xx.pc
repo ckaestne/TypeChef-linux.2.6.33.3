@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SCSI_ZORRO7XX) && definedEx(CONFIG_SCSI))

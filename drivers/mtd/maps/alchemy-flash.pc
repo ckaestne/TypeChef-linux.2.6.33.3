@@ -1,0 +1,1 @@
+(definedEx(CONFIG_MTD_ALCHEMY) && definedEx(CONFIG_MTD))

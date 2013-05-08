@@ -1,0 +1,1 @@
+(definedEx(CONFIG_USB_S3C_HSOTG) && definedEx(CONFIG_USB_GADGET))

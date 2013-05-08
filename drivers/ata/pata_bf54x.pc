@@ -1,0 +1,1 @@
+(definedEx(CONFIG_PATA_BF54X) && definedEx(CONFIG_ATA))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SND_USB_US122L) && definedEx(CONFIG_SND))

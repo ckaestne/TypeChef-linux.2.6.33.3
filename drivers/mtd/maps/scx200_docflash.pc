@@ -1,0 +1,1 @@
+(definedEx(CONFIG_MTD_SCx200_DOCFLASH) && definedEx(CONFIG_MTD))

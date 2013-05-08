@@ -1,0 +1,1 @@
+(definedEx(CONFIG_USB_GSPCA_TV8532) && definedEx(CONFIG_USB_GSPCA))

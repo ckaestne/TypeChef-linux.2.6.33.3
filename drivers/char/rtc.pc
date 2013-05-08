@@ -1,0 +1,1 @@
+(definedEx(CONFIG_RTC) || definedEx(CONFIG_JS_RTC))

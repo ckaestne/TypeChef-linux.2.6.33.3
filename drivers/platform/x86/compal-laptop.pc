@@ -1,0 +1,1 @@
+(definedEx(CONFIG_COMPAL_LAPTOP) && definedEx(CONFIG_X86))

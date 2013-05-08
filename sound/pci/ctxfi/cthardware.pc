@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SND_CTXFI) && definedEx(CONFIG_SND))

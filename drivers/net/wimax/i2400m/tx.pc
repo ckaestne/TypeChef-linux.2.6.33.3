@@ -1,0 +1,1 @@
+(definedEx(CONFIG_WIMAX_I2400M) && definedEx(CONFIG_WIMAX))

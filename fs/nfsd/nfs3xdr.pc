@@ -1,0 +1,1 @@
+(definedEx(CONFIG_NFSD_V3) && definedEx(CONFIG_NFSD))

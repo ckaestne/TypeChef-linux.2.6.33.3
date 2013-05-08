@@ -1,0 +1,1 @@
+(definedEx(CONFIG_NUC900_WATCHDOG) && definedEx(CONFIG_WATCHDOG))

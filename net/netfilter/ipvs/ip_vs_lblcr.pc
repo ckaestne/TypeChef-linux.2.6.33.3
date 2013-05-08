@@ -1,0 +1,1 @@
+(definedEx(CONFIG_IP_VS) && definedEx(CONFIG_NETFILTER) && definedEx(CONFIG_IP_VS_LBLCR))

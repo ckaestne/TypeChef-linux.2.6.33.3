@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SENSORS_THMC50) && definedEx(CONFIG_HWMON))

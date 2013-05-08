@@ -1,0 +1,1 @@
+(definedEx(CONFIG_REGULATOR_TWL4030) && definedEx(CONFIG_REGULATOR))

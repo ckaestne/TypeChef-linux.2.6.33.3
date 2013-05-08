@@ -1,0 +1,1 @@
+(definedEx(CONFIG_LEDS_COBALT_QUBE) && definedEx(CONFIG_NEW_LEDS))

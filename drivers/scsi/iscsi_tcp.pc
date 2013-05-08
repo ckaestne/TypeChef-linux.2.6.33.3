@@ -1,0 +1,1 @@
+(definedEx(CONFIG_ISCSI_TCP) && definedEx(CONFIG_SCSI))

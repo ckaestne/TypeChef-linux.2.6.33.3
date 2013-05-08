@@ -1,0 +1,1 @@
+(definedEx(CONFIG_MTD_NAND_CM_X270) && definedEx(CONFIG_MTD))

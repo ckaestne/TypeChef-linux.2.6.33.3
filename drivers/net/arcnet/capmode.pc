@@ -1,0 +1,1 @@
+(definedEx(CONFIG_ARCNET_CAP) && definedEx(CONFIG_ARCNET))

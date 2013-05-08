@@ -1,0 +1,1 @@
+(definedEx(CONFIG_RDS_TCP) && definedEx(CONFIG_RDS))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SAMPLE_HW_BREAKPOINT) && definedEx(CONFIG_SAMPLES))

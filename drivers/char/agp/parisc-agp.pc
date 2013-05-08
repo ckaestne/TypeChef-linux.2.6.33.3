@@ -1,0 +1,1 @@
+(definedEx(CONFIG_AGP_PARISC) && definedEx(CONFIG_AGP))

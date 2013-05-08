@@ -1,0 +1,1 @@
+(definedEx(CONFIG_PATA_ATP867X) && definedEx(CONFIG_ATA))

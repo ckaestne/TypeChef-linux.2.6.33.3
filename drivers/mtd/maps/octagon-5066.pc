@@ -1,0 +1,1 @@
+(definedEx(CONFIG_MTD_OCTAGON) && definedEx(CONFIG_MTD))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_MD_RAID1) && definedEx(CONFIG_MD))

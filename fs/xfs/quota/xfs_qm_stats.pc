@@ -1,0 +1,1 @@
+(definedEx(CONFIG_XFS_QUOTA) && definedEx(CONFIG_XFS_FS) && definedEx(CONFIG_PROC_FS))

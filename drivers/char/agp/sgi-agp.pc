@@ -1,0 +1,1 @@
+(definedEx(CONFIG_AGP_SGI_TIOCA) && definedEx(CONFIG_AGP))

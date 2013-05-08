@@ -1,0 +1,1 @@
+(definedEx(CONFIG_QE_USB) && definedEx(CONFIG_QUICC_ENGINE))

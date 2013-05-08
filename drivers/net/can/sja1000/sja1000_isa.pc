@@ -1,0 +1,1 @@
+(definedEx(CONFIG_CAN_SJA1000) && definedEx(CONFIG_CAN) && definedEx(CONFIG_CAN_SJA1000_ISA))

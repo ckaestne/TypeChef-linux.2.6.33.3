@@ -1,0 +1,1 @@
+(definedEx(CONFIG_STRIP) && definedEx(CONFIG_STAGING))

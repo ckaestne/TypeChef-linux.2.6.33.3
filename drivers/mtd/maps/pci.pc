@@ -1,0 +1,1 @@
+(definedEx(CONFIG_MTD_PCI) && definedEx(CONFIG_MTD))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_PATA_OCTEON_CF) && definedEx(CONFIG_ATA))

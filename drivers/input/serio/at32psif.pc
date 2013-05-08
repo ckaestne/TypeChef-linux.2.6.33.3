@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SERIO_AT32PSIF) && definedEx(CONFIG_SERIO))

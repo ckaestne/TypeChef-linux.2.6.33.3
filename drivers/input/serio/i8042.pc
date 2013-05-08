@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SERIO_I8042) && definedEx(CONFIG_SERIO))

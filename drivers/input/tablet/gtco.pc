@@ -1,0 +1,1 @@
+(definedEx(CONFIG_INPUT_TABLET) && definedEx(CONFIG_INPUT) && definedEx(CONFIG_TABLET_USB_GTCO))

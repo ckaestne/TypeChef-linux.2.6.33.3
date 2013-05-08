@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SND_MIXART) && definedEx(CONFIG_SND))

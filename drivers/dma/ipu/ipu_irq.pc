@@ -1,0 +1,1 @@
+(definedEx(CONFIG_MX3_IPU) && definedEx(CONFIG_DMA_ENGINE))

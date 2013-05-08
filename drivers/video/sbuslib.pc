@@ -1,0 +1,1 @@
+(definedEx(CONFIG_FB_FFB) || definedEx(CONFIG_FB_CG14) || definedEx(CONFIG_FB_LEO) || definedEx(CONFIG_FB_CG6) || definedEx(CONFIG_FB_CG3) || definedEx(CONFIG_FB_BW2) || definedEx(CONFIG_FB_TCX) || definedEx(CONFIG_FB_P9100))

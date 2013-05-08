@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SSB_PCMCIAHOST) && definedEx(CONFIG_SSB))

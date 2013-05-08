@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SATA_QSTOR) && definedEx(CONFIG_ATA))

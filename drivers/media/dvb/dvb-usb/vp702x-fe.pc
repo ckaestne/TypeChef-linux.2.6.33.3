@@ -1,0 +1,1 @@
+(definedEx(CONFIG_DVB_USB_VP702X) && definedEx(CONFIG_DVB_CORE))

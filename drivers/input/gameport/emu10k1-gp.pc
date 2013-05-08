@@ -1,0 +1,1 @@
+(definedEx(CONFIG_GAMEPORT_EMU10K1) && definedEx(CONFIG_GAMEPORT))

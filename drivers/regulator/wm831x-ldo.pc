@@ -1,0 +1,1 @@
+(definedEx(CONFIG_REGULATOR_WM831X) && definedEx(CONFIG_REGULATOR))

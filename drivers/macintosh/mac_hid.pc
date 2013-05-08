@@ -1,0 +1,1 @@
+definedEx(CONFIG_MAC_EMUMOUSEBTN)

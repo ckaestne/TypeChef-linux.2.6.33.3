@@ -1,0 +1,1 @@
+(definedEx(CONFIG_ADX_WATCHDOG) && definedEx(CONFIG_WATCHDOG))

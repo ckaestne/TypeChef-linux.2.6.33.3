@@ -1,0 +1,1 @@
+(definedEx(CONFIG_PCI) && (definedEx(CONFIG_SH_SDK7780) || definedEx(CONFIG_SH_7780_SOLUTION_ENGINE)))

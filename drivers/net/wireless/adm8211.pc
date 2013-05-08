@@ -1,0 +1,1 @@
+definedEx(CONFIG_ADM8211)

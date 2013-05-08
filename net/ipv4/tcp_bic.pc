@@ -1,0 +1,1 @@
+(definedEx(CONFIG_TCP_CONG_BIC) && definedEx(CONFIG_INET))

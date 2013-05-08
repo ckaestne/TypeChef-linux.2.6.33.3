@@ -1,0 +1,1 @@
+(definedEx(CONFIG_MADGEMC) && definedEx(CONFIG_TR))

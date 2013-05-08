@@ -1,0 +1,1 @@
+(definedEx(CONFIG_NF_CONNTRACK_IRC) && definedEx(CONFIG_NETFILTER))

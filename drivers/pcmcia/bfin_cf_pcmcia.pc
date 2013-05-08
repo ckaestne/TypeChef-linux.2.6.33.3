@@ -1,0 +1,1 @@
+(definedEx(CONFIG_BFIN_CFPCMCIA) && definedEx(CONFIG_PCCARD))

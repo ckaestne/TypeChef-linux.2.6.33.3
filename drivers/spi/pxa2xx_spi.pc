@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SPI_PXA2XX) && definedEx(CONFIG_SPI))

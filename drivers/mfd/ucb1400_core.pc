@@ -1,0 +1,1 @@
+definedEx(CONFIG_UCB1400_CORE)

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_ISDN_I4L) && definedEx(CONFIG_ISDN) && definedEx(CONFIG_ISDN_TTY_FAX))

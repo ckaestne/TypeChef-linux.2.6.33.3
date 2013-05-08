@@ -1,0 +1,1 @@
+definedEx(CONFIG_LCD_TOSA)

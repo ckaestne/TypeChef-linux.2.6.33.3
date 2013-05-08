@@ -1,0 +1,1 @@
+(definedEx(CONFIG_EBONY) && definedEx(CONFIG_44x))

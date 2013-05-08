@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SERIAL_S3C6400) || definedEx(CONFIG_SERIAL_S5PC100))

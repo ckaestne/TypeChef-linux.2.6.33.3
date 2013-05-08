@@ -1,0 +1,1 @@
+(definedEx(CONFIG_PARIDE_BPCK) && definedEx(CONFIG_PARIDE))

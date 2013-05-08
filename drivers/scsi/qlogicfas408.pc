@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SCSI) && (definedEx(CONFIG_SCSI_QLOGIC_FAS) || definedEx(CONFIG_PCMCIA_QLOGIC)))

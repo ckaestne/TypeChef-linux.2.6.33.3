@@ -1,0 +1,1 @@
+(definedEx(CONFIG_HW_RANDOM_MXC_RNGA) && definedEx(CONFIG_HW_RANDOM))

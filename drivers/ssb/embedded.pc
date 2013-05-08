@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SSB_EMBEDDED) && definedEx(CONFIG_SSB))

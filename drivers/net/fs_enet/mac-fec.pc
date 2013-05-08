@@ -1,0 +1,1 @@
+(definedEx(CONFIG_FS_ENET_HAS_FEC) && definedEx(CONFIG_FS_ENET))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_APPLE_AIRPORT) && definedEx(CONFIG_HERMES))

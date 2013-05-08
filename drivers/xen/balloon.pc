@@ -1,0 +1,1 @@
+(definedEx(CONFIG_XEN_BALLOON) && definedEx(CONFIG_XEN))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SND_ATMEL_AC97C) && definedEx(CONFIG_SND))

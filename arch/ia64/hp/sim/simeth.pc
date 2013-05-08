@@ -1,0 +1,1 @@
+(definedEx(CONFIG_HP_SIMETH) && (definedEx(CONFIG_IA64_HP_SIM) || definedEx(CONFIG_IA64_GENERIC)))

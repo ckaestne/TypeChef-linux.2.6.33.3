@@ -1,0 +1,1 @@
+(definedEx(CONFIG_XEN_DEV_EVTCHN) && definedEx(CONFIG_XEN))

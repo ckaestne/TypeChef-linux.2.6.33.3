@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SPI_STMP3XXX) && definedEx(CONFIG_SPI))

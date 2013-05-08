@@ -1,0 +1,1 @@
+(definedEx(CONFIG_LIBFC) && definedEx(CONFIG_SCSI))

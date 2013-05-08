@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SPI_PL022) && definedEx(CONFIG_SPI))

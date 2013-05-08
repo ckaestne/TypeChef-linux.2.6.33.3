@@ -1,0 +1,1 @@
+(definedEx(CONFIG_PARIDE_KBIC) && definedEx(CONFIG_PARIDE))

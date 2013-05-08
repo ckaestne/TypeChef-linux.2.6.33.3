@@ -1,0 +1,1 @@
+(definedEx(CONFIG_BT_MRVL) && definedEx(CONFIG_BT) && definedEx(CONFIG_DEBUG_FS))

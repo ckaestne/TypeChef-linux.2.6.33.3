@@ -1,0 +1,1 @@
+(definedEx(CONFIG_PCMCIA) && definedEx(CONFIG_SCSI) && definedEx(CONFIG_PCMCIA_SYM53C500))

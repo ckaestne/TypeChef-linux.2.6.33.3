@@ -1,0 +1,1 @@
+(definedEx(CONFIG_USB_GSPCA_CONEX) && definedEx(CONFIG_USB_GSPCA))

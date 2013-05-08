@@ -1,0 +1,1 @@
+(definedEx(CONFIG_PLX_HERMES) && definedEx(CONFIG_HERMES))

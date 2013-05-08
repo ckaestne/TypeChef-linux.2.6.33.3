@@ -1,0 +1,1 @@
+(definedEx(CONFIG_CARDMAN_4040) && definedEx(CONFIG_PCMCIA))

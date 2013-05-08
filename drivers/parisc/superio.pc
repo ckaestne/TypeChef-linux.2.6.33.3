@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SUPERIO) && definedEx(CONFIG_PARISC))

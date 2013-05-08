@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SYSCTL) && definedEx(CONFIG_SUNRPC))

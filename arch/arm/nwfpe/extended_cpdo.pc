@@ -1,0 +1,1 @@
+(definedEx(CONFIG_FPE_NWFPE_XP) && definedEx(CONFIG_FPE_NWFPE))

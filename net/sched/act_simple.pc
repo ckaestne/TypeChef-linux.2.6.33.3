@@ -1,0 +1,1 @@
+(definedEx(CONFIG_NET_ACT_SIMP) && definedEx(CONFIG_NET))

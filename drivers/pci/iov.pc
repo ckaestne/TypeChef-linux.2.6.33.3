@@ -1,0 +1,1 @@
+(definedEx(CONFIG_PCI_IOV) && definedEx(CONFIG_PCI))

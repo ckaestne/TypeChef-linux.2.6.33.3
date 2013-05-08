@@ -1,0 +1,1 @@
+(definedEx(CONFIG_NLS_KOI8_U) && definedEx(CONFIG_NLS))

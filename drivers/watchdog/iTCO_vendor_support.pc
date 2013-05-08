@@ -1,0 +1,1 @@
+(definedEx(CONFIG_ITCO_VENDOR_SUPPORT) && definedEx(CONFIG_WATCHDOG) && definedEx(CONFIG_ITCO_WDT))

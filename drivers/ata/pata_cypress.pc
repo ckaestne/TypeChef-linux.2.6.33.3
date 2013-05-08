@@ -1,0 +1,1 @@
+(definedEx(CONFIG_PATA_CYPRESS) && definedEx(CONFIG_ATA))

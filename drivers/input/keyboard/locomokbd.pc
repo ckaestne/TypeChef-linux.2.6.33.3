@@ -1,0 +1,1 @@
+(definedEx(CONFIG_INPUT_KEYBOARD) && definedEx(CONFIG_INPUT) && definedEx(CONFIG_KEYBOARD_LOCOMO))

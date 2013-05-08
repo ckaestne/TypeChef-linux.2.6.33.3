@@ -1,0 +1,1 @@
+(!definedEx(CONFIG_MMU) && definedEx(CONFIG_ROMFS_FS) && definedEx(CONFIG_ROMFS_ON_MTD))

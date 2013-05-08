@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SUN3X) || definedEx(CONFIG_SUN3))

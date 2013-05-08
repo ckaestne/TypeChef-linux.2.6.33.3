@@ -1,0 +1,1 @@
+(definedEx(CONFIG_I2O_BLOCK) && definedEx(CONFIG_I2O))

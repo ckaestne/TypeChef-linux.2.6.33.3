@@ -1,0 +1,1 @@
+(definedEx(CONFIG_VGA_CONSOLE) && definedEx(CONFIG_VT))

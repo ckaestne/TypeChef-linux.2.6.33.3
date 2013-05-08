@@ -1,0 +1,1 @@
+(definedEx(CONFIG_PDC_ADMA) && definedEx(CONFIG_ATA))

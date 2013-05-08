@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SND_USB_AUDIO) && definedEx(CONFIG_SND))

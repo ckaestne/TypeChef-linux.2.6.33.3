@@ -1,0 +1,1 @@
+(definedEx(CONFIG_NET_CLS_RSVP) && definedEx(CONFIG_NET))

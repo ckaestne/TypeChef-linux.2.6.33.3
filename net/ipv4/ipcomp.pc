@@ -1,0 +1,1 @@
+(definedEx(CONFIG_INET_IPCOMP) && definedEx(CONFIG_INET))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_PCI) && (definedEx(CONFIG_SH_RTS7751R2D) || definedEx(CONFIG_SH_LBOX_RE2)))

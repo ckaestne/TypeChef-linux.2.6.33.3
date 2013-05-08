@@ -1,0 +1,1 @@
+(definedEx(CONFIG_WATCHDOG_RIO) && definedEx(CONFIG_WATCHDOG))

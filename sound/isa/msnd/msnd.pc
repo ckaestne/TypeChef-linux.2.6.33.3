@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SND) && (definedEx(CONFIG_SND_MSND_PINNACLE) || definedEx(CONFIG_SND_MSND_CLASSIC)))

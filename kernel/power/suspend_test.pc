@@ -1,0 +1,1 @@
+(definedEx(CONFIG_PM_TEST_SUSPEND) && (definedEx(CONFIG_PM) || definedEx(CONFIG_FREEZER)))

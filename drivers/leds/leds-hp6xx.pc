@@ -1,0 +1,1 @@
+(definedEx(CONFIG_LEDS_HP6XX) && definedEx(CONFIG_NEW_LEDS))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_AT32AP700X_WDT) && definedEx(CONFIG_WATCHDOG))

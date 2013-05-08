@@ -1,0 +1,1 @@
+(definedEx(CONFIG_CPU_SUBTYPE_SH4_202) && definedEx(CONFIG_SUPERHYWAY))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_MCP_UCB1200) && definedEx(CONFIG_SA1100_ASSABET))

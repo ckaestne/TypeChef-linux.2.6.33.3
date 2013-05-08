@@ -1,0 +1,1 @@
+(definedEx(CONFIG_EUROTECH_WDT) && definedEx(CONFIG_WATCHDOG))

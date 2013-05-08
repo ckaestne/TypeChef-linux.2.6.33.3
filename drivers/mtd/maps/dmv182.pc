@@ -1,0 +1,1 @@
+(definedEx(CONFIG_MTD_DMV182) && definedEx(CONFIG_MTD))

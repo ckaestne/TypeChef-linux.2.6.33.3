@@ -1,0 +1,1 @@
+(definedEx(CONFIG_IBMASR) && definedEx(CONFIG_WATCHDOG))

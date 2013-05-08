@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SUPERHYWAY) && definedEx(CONFIG_SUPERH))

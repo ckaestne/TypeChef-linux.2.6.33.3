@@ -1,0 +1,1 @@
+definedEx(CONFIG_8XX_MINIMAL_FPEMU)

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_CPU_SUBTYPE_SHX3) && definedEx(CONFIG_CPU_SH4A))

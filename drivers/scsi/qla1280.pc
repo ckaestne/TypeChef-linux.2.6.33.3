@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SCSI_QLOGIC_1280) && definedEx(CONFIG_SCSI))

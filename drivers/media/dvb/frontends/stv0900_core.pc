@@ -1,0 +1,1 @@
+(definedEx(CONFIG_DVB_STV0900) && definedEx(CONFIG_DVB_CORE))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SENSORS_LTC4245) && definedEx(CONFIG_HWMON))

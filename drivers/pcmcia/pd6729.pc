@@ -1,0 +1,1 @@
+(definedEx(CONFIG_PD6729) && definedEx(CONFIG_PCCARD))

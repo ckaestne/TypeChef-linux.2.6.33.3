@@ -1,0 +1,1 @@
+definedEx(CONFIG_IWMC3200TOP)

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_USB_M66592) && definedEx(CONFIG_USB_GADGET))

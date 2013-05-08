@@ -1,0 +1,1 @@
+(definedEx(CONFIG_IA64_GENERIC) || definedEx(CONFIG_IA64_HP_ZX1_SWIOTLB))

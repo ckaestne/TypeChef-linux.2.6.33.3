@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SPI_DW_PCI) && definedEx(CONFIG_SPI))

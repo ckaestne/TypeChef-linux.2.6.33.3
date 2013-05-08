@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SPI_TXX9) && definedEx(CONFIG_SPI))

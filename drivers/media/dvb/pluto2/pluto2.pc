@@ -1,0 +1,1 @@
+(definedEx(CONFIG_DVB_PLUTO2) && definedEx(CONFIG_DVB_CORE))

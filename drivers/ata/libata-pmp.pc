@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SATA_PMP) && definedEx(CONFIG_ATA))

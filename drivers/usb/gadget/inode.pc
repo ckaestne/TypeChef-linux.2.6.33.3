@@ -1,0 +1,1 @@
+(definedEx(CONFIG_USB_GADGETFS) && definedEx(CONFIG_USB_GADGET))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_DLM_DEBUG) && definedEx(CONFIG_DLM))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_HT_IRQ) && definedEx(CONFIG_PCI))

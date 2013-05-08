@@ -1,0 +1,1 @@
+(definedEx(CONFIG_FRAMEBUFFER_CONSOLE) && definedEx(CONFIG_VT))

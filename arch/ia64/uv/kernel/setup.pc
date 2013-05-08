@@ -1,0 +1,1 @@
+(definedEx(CONFIG_IA64_SGI_UV) || definedEx(CONFIG_IA64_GENERIC))

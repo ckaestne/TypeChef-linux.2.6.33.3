@@ -1,0 +1,1 @@
+(definedEx(CONFIG_ATMEL_TCB_CLKSRC) && definedEx(CONFIG_GENERIC_TIME))

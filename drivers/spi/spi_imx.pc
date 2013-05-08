@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SPI_IMX) && definedEx(CONFIG_SPI))

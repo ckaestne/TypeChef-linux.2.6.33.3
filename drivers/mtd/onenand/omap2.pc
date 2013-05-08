@@ -1,0 +1,1 @@
+(definedEx(CONFIG_MTD_ONENAND_OMAP2) && definedEx(CONFIG_MTD))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_DVB_MT312) && definedEx(CONFIG_DVB_CORE))

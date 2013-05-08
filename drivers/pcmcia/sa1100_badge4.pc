@@ -1,0 +1,1 @@
+(definedEx(CONFIG_PCMCIA_SA1111) && definedEx(CONFIG_PCCARD) && definedEx(CONFIG_SA1100_BADGE4))

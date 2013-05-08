@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SND_USB_USX2Y) && definedEx(CONFIG_SND))

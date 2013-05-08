@@ -1,0 +1,1 @@
+(definedEx(CONFIG_CFG80211_DEBUGFS) && definedEx(CONFIG_CFG80211))

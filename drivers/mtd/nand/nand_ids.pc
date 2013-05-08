@@ -1,0 +1,1 @@
+(definedEx(CONFIG_MTD_NAND_IDS) && definedEx(CONFIG_MTD))

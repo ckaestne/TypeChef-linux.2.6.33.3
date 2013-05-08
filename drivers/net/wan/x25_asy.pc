@@ -1,0 +1,1 @@
+(definedEx(CONFIG_X25_ASY) && definedEx(CONFIG_WAN))

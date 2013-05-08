@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SCSI_MPT2SAS) && definedEx(CONFIG_SCSI))

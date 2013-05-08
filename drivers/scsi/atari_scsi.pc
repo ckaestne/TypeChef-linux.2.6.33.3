@@ -1,0 +1,1 @@
+(definedEx(CONFIG_ATARI_SCSI) && definedEx(CONFIG_SCSI))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_OF_I2C) && definedEx(CONFIG_OF))

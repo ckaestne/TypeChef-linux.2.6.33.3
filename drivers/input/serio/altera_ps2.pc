@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SERIO_ALTERA_PS2) && definedEx(CONFIG_SERIO))

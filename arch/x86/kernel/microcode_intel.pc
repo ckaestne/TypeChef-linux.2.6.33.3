@@ -1,0 +1,1 @@
+(definedEx(CONFIG_MICROCODE_INTEL) && definedEx(CONFIG_MICROCODE))

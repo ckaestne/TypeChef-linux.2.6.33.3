@@ -1,0 +1,1 @@
+(definedEx(CONFIG_RT2870) && definedEx(CONFIG_STAGING))

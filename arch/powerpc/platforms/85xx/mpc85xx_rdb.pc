@@ -1,0 +1,1 @@
+(definedEx(CONFIG_MPC85xx_RDB) && definedEx(CONFIG_FSL_SOC_BOOKE))

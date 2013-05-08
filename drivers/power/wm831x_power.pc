@@ -1,0 +1,1 @@
+(definedEx(CONFIG_WM831X_POWER) && definedEx(CONFIG_POWER_SUPPLY))

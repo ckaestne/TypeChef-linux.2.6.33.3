@@ -1,0 +1,1 @@
+(definedEx(CONFIG_ALPHA_AVANTI) || definedEx(CONFIG_ALPHA_BOOK1) || definedEx(CONFIG_ALPHA_XL) || definedEx(CONFIG_ALPHA_NONAME) || definedEx(CONFIG_ALPHA_P2K) || definedEx(CONFIG_ALPHA_GENERIC))

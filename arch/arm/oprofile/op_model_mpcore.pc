@@ -1,0 +1,1 @@
+(definedEx(CONFIG_OPROFILE_MPCORE) && definedEx(CONFIG_OPROFILE))

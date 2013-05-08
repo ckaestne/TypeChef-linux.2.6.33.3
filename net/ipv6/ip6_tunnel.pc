@@ -1,0 +1,1 @@
+(definedEx(CONFIG_IPV6_TUNNEL) && definedEx(CONFIG_IPV6))

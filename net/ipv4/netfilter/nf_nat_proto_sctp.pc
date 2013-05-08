@@ -1,0 +1,1 @@
+(definedEx(CONFIG_NETFILTER) && definedEx(CONFIG_INET) && definedEx(CONFIG_NF_NAT_PROTO_SCTP))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_MTD_TESTS) && definedEx(CONFIG_MTD))

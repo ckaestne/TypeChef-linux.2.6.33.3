@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SND_SB16_CSP) && definedEx(CONFIG_SND) && (definedEx(CONFIG_SND_SB16) || definedEx(CONFIG_SND_SBAWE)))

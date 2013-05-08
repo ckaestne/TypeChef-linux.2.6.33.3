@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SOUND_TRIX) && (definedEx(CONFIG_SOUND_PRIME) || definedEx(CONFIG_DMASOUND)))

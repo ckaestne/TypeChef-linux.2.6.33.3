@@ -1,0 +1,1 @@
+(definedEx(CONFIG_MDA_CONSOLE) && definedEx(CONFIG_VT))

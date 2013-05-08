@@ -1,0 +1,1 @@
+(definedEx(CONFIG_MCP2120_DONGLE) && definedEx(CONFIG_IRDA))

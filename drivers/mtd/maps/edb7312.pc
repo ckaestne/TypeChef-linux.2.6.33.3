@@ -1,0 +1,1 @@
+(definedEx(CONFIG_MTD_EDB7312) && definedEx(CONFIG_MTD))

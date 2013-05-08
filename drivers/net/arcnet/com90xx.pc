@@ -1,0 +1,1 @@
+(definedEx(CONFIG_ARCNET_COM90xx) && definedEx(CONFIG_ARCNET))

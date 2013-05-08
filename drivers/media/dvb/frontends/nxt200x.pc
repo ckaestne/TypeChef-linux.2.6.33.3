@@ -1,0 +1,1 @@
+(definedEx(CONFIG_DVB_NXT200X) && definedEx(CONFIG_DVB_CORE))

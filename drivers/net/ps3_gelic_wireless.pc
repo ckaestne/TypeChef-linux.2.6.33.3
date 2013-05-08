@@ -1,0 +1,1 @@
+(definedEx(CONFIG_GELIC_WIRELESS) && definedEx(CONFIG_GELIC_NET))

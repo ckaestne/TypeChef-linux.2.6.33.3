@@ -1,0 +1,1 @@
+(definedEx(CONFIG_I2O_SCSI) && definedEx(CONFIG_I2O))

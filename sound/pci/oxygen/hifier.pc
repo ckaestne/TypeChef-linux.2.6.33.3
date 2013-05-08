@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SND_HIFIER) && definedEx(CONFIG_SND))

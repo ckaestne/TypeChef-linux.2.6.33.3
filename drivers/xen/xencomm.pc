@@ -1,0 +1,1 @@
+(definedEx(CONFIG_XEN_XENCOMM) && definedEx(CONFIG_XEN))

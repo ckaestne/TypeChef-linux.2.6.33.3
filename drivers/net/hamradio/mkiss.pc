@@ -1,0 +1,1 @@
+(definedEx(CONFIG_MKISS) && definedEx(CONFIG_HAMRADIO))

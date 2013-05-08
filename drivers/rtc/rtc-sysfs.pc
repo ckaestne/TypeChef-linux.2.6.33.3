@@ -1,0 +1,1 @@
+(definedEx(CONFIG_RTC_CLASS) && definedEx(CONFIG_RTC_LIB) && definedEx(CONFIG_RTC_INTF_SYSFS))

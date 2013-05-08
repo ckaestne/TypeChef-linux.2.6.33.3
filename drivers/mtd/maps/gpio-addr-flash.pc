@@ -1,0 +1,1 @@
+(definedEx(CONFIG_MTD_GPIO_ADDR) && definedEx(CONFIG_MTD))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_CPU_SH2A) && (definedEx(CONFIG_CPU_SUBTYPE_SH7203) || definedEx(CONFIG_CPU_SUBTYPE_SH7263)))

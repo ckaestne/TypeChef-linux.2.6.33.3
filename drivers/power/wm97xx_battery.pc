@@ -1,0 +1,1 @@
+(definedEx(CONFIG_BATTERY_WM97XX) && definedEx(CONFIG_POWER_SUPPLY))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_DAVICOM_PHY) && definedEx(CONFIG_PHYLIB))

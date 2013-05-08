@@ -1,0 +1,1 @@
+(definedEx(CONFIG_PARPORT_AX88796) && definedEx(CONFIG_PARPORT))

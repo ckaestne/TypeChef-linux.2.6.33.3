@@ -1,0 +1,1 @@
+(definedEx(CONFIG_DECNET_ROUTER) && definedEx(CONFIG_DECNET))

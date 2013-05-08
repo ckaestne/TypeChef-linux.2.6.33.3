@@ -1,0 +1,1 @@
+(definedEx(CONFIG_NET_9P_VIRTIO) && definedEx(CONFIG_NET_9P))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_MTD_PMC_MSP_EVM) && definedEx(CONFIG_MTD))

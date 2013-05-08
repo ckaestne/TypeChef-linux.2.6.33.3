@@ -1,0 +1,1 @@
+(definedEx(CONFIG_VIDEO_EM28XX_DVB) && definedEx(CONFIG_VIDEO_EM28XX))

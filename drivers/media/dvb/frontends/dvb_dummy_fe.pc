@@ -1,0 +1,1 @@
+(definedEx(CONFIG_DVB_DUMMY_FE) && definedEx(CONFIG_DVB_CORE))

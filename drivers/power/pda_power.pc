@@ -1,0 +1,1 @@
+(definedEx(CONFIG_PDA_POWER) && definedEx(CONFIG_POWER_SUPPLY))

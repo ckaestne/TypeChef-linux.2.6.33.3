@@ -1,0 +1,1 @@
+(definedEx(CONFIG_ETRAX_ARCH_V10) && definedEx(CONFIG_ETRAX_ETHERNET))

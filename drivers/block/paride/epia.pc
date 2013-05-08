@@ -1,0 +1,1 @@
+(definedEx(CONFIG_PARIDE_EPIA) && definedEx(CONFIG_PARIDE))

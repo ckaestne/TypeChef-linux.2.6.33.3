@@ -1,0 +1,1 @@
+(definedEx(CONFIG_MTD_NAND_BF5XX) && definedEx(CONFIG_MTD))

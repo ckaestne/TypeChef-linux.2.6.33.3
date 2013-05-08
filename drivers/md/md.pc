@@ -1,0 +1,1 @@
+(definedEx(CONFIG_BLK_DEV_MD) && definedEx(CONFIG_MD))

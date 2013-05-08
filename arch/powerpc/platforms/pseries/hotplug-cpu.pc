@@ -1,0 +1,1 @@
+(definedEx(CONFIG_HOTPLUG_CPU) && definedEx(CONFIG_PPC_PSERIES))

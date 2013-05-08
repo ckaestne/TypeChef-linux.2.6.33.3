@@ -1,0 +1,1 @@
+(definedEx(CONFIG_INET_DCCP_DIAG) && definedEx(CONFIG_IP_DCCP))

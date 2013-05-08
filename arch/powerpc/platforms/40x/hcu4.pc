@@ -1,0 +1,1 @@
+(definedEx(CONFIG_HCU4) && definedEx(CONFIG_40x))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_FB_MATROX_G) && definedEx(CONFIG_FB_MATROX))

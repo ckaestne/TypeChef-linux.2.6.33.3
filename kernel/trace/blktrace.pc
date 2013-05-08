@@ -1,0 +1,1 @@
+((definedEx(CONFIG_BLK_DEV_IO_TRACE) && (definedEx(CONFIG_FUNCTION_TRACER) || definedEx(CONFIG_TRACING) || definedEx(CONFIG_X86_DS) || definedEx(CONFIG_RING_BUFFER))) || (definedEx(CONFIG_BLOCK) && (definedEx(CONFIG_FUNCTION_TRACER) || definedEx(CONFIG_TRACING) || definedEx(CONFIG_X86_DS) || definedEx(CONFIG_RING_BUFFER)) && definedEx(CONFIG_EVENT_TRACING)))

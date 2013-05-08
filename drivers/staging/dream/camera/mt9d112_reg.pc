@@ -1,0 +1,1 @@
+(definedEx(CONFIG_DREAM) && definedEx(CONFIG_STAGING) && definedEx(CONFIG_MSM_CAMERA) && definedEx(CONFIG_MT9D112))

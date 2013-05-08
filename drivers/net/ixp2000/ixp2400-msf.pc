@@ -1,0 +1,1 @@
+definedEx(CONFIG_ENP2611_MSF_NET)

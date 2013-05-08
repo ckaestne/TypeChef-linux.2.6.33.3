@@ -1,0 +1,1 @@
+(definedEx(CONFIG_XEN_KBDDEV_FRONTEND) && definedEx(CONFIG_INPUT))

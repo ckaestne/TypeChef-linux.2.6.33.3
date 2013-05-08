@@ -1,0 +1,1 @@
+definedEx(CONFIG_CPU_SUP_AMD)

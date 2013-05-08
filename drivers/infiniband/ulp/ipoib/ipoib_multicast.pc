@@ -1,0 +1,1 @@
+(definedEx(CONFIG_INFINIBAND_IPOIB) && definedEx(CONFIG_INFINIBAND))

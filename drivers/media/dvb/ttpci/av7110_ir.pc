@@ -1,0 +1,1 @@
+(definedEx(CONFIG_DVB_AV7110) && definedEx(CONFIG_DVB_CORE) && definedEx(CONFIG_INPUT_EVDEV))

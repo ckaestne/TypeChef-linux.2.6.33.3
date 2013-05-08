@@ -1,0 +1,1 @@
+(definedEx(CONFIG_XFS_TRACE) && definedEx(CONFIG_XFS_FS))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_MMC_S3C) && definedEx(CONFIG_MMC))

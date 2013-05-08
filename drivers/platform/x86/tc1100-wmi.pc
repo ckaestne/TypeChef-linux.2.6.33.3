@@ -1,0 +1,1 @@
+(definedEx(CONFIG_TC1100_WMI) && definedEx(CONFIG_X86))

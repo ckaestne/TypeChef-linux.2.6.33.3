@@ -1,0 +1,1 @@
+(definedEx(CONFIG_VIDEO_VPFE_CAPTURE) && definedEx(CONFIG_ARCH_DAVINCI))

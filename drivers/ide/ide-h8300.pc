@@ -1,0 +1,1 @@
+(definedEx(CONFIG_IDE_H8300) && definedEx(CONFIG_IDE))

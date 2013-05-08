@@ -1,0 +1,1 @@
+(definedEx(CONFIG_VIOPATH) && definedEx(CONFIG_PPC_ISERIES))

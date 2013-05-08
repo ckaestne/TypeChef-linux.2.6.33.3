@@ -1,0 +1,1 @@
+(definedEx(CONFIG_LEDS_TRIGGER_TIMER) && definedEx(CONFIG_NEW_LEDS))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_XILINX_ML510) && definedEx(CONFIG_44x))

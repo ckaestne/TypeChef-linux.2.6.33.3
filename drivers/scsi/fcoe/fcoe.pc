@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SCSI) && (definedEx(CONFIG_LIBFCOE) || definedEx(CONFIG_FCOE)) && definedEx(CONFIG_FCOE))

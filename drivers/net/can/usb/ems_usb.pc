@@ -1,0 +1,1 @@
+(definedEx(CONFIG_CAN_EMS_USB) && definedEx(CONFIG_CAN))

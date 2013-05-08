@@ -1,0 +1,1 @@
+(definedEx(CONFIG_PCMCIA_PXA2XX) && definedEx(CONFIG_PCCARD) && definedEx(CONFIG_TRIZEPS_PCMCIA))

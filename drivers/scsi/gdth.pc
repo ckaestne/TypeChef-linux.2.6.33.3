@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SCSI_GDTH) && definedEx(CONFIG_SCSI))

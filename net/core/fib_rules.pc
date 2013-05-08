@@ -1,0 +1,1 @@
+(definedEx(CONFIG_FIB_RULES) && definedEx(CONFIG_NET))

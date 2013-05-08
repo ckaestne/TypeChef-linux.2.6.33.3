@@ -1,0 +1,1 @@
+(definedEx(CONFIG_6xx) && definedEx(CONFIG_OPROFILE))

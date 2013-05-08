@@ -1,0 +1,1 @@
+(definedEx(CONFIG_GVP11_SCSI) && definedEx(CONFIG_SCSI))

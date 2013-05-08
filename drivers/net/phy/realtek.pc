@@ -1,0 +1,1 @@
+(definedEx(CONFIG_REALTEK_PHY) && definedEx(CONFIG_PHYLIB))

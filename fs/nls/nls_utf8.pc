@@ -1,0 +1,1 @@
+(definedEx(CONFIG_NLS_UTF8) && definedEx(CONFIG_NLS))

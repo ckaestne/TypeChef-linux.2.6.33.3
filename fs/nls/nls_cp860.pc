@@ -1,0 +1,1 @@
+(definedEx(CONFIG_NLS_CODEPAGE_860) && definedEx(CONFIG_NLS))

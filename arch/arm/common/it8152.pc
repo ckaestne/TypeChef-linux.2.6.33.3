@@ -1,0 +1,1 @@
+definedEx(CONFIG_PCI_HOST_ITE8152)

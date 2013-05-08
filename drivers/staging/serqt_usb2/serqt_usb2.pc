@@ -1,0 +1,1 @@
+(definedEx(CONFIG_USB_SERIAL_QUATECH2) && definedEx(CONFIG_STAGING))

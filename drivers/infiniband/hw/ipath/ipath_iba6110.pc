@@ -1,0 +1,1 @@
+(definedEx(CONFIG_INFINIBAND_IPATH) && definedEx(CONFIG_INFINIBAND) && definedEx(CONFIG_HT_IRQ))

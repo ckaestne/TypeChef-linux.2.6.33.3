@@ -1,0 +1,1 @@
+(definedEx(CONFIG_MTD_H720X) && definedEx(CONFIG_MTD))

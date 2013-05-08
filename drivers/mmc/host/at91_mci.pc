@@ -1,0 +1,1 @@
+(definedEx(CONFIG_MMC_AT91) && definedEx(CONFIG_MMC))

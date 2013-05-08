@@ -1,0 +1,1 @@
+(definedEx(CONFIG_LOGO_PARISC_CLUT224) && definedEx(CONFIG_LOGO))

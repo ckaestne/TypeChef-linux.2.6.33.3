@@ -1,0 +1,1 @@
+(definedEx(CONFIG_MTD_NAND_DISKONCHIP) && definedEx(CONFIG_MTD))

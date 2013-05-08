@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SND_SONICVIBES) && definedEx(CONFIG_SND))

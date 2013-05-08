@@ -1,0 +1,1 @@
+(definedEx(CONFIG_USB_MUSB_HDRC) && (definedEx(CONFIG_ARCH_OMAP2430) || definedEx(CONFIG_ARCH_OMAP3430)))

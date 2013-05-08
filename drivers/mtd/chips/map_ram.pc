@@ -1,0 +1,1 @@
+(definedEx(CONFIG_MTD_RAM) && definedEx(CONFIG_MTD))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_ARCH_DAVINCI) && definedEx(CONFIG_USB_MUSB_HDRC))

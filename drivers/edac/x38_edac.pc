@@ -1,0 +1,1 @@
+(definedEx(CONFIG_EDAC_X38) && definedEx(CONFIG_EDAC))

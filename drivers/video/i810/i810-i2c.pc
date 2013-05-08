@@ -1,0 +1,1 @@
+(definedEx(CONFIG_FB_I810_I2C) && definedEx(CONFIG_FB_I810))

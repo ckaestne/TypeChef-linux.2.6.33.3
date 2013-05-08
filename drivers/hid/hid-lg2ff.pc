@@ -1,0 +1,1 @@
+(definedEx(CONFIG_HID_LOGITECH) && definedEx(CONFIG_HID) && definedEx(CONFIG_LOGIRUMBLEPAD2_FF))

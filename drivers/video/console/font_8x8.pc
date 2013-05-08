@@ -1,0 +1,1 @@
+(definedEx(CONFIG_FONT_8x8) && ((definedEx(CONFIG_VT) && (definedEx(CONFIG_SGI_NEWPORT_CONSOLE) || definedEx(CONFIG_STI_CONSOLE) || definedEx(CONFIG_FRAMEBUFFER_CONSOLE) || definedEx(CONFIG_FB_STI))) || (definedEx(CONFIG_USB_SISUSBVGA_CON) && definedEx(CONFIG_VT) && definedEx(CONFIG_USB_SISUSBVGA))))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_PC300) && definedEx(CONFIG_WAN) && definedEx(CONFIG_PC300_MLPPP))

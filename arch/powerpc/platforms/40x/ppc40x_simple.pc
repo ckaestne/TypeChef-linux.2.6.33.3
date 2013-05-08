@@ -1,0 +1,1 @@
+(definedEx(CONFIG_PPC40x_SIMPLE) && definedEx(CONFIG_40x))

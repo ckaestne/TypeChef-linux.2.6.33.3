@@ -1,0 +1,1 @@
+(definedEx(CONFIG_PS3_STORAGE) && definedEx(CONFIG_PPC_PS3))

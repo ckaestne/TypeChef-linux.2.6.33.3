@@ -1,0 +1,1 @@
+(definedEx(CONFIG_MDIO_OCTEON) && definedEx(CONFIG_PHYLIB))

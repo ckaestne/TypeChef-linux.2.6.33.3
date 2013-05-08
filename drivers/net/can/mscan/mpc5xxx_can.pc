@@ -1,0 +1,1 @@
+(definedEx(CONFIG_CAN_MSCAN) && definedEx(CONFIG_CAN) && definedEx(CONFIG_CAN_MPC5XXX))

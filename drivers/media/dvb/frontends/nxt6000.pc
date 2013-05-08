@@ -1,0 +1,1 @@
+(definedEx(CONFIG_DVB_NXT6000) && definedEx(CONFIG_DVB_CORE))

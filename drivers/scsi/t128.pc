@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SCSI_T128) && definedEx(CONFIG_SCSI))

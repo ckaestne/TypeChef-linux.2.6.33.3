@@ -1,0 +1,1 @@
+definedEx(CONFIG_HUGETLB_PAGE)

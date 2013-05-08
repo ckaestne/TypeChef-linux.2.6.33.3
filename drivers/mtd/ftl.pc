@@ -1,0 +1,1 @@
+(definedEx(CONFIG_FTL) && definedEx(CONFIG_MTD))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_I82365) && definedEx(CONFIG_PCCARD))

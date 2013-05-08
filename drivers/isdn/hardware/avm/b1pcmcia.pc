@@ -1,0 +1,1 @@
+(definedEx(CONFIG_CAPI_AVM) && definedEx(CONFIG_ISDN) && definedEx(CONFIG_ISDN_DRV_AVMB1_B1PCMCIA))

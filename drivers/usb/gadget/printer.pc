@@ -1,0 +1,1 @@
+(definedEx(CONFIG_USB_G_PRINTER) && definedEx(CONFIG_USB_GADGET))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SCSI_MESH) && definedEx(CONFIG_SCSI))

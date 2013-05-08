@@ -1,0 +1,1 @@
+(definedEx(CONFIG_XMON_DISASSEMBLY) && definedEx(CONFIG_XMON) && definedEx(CONFIG_SPU_BASE))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_AR9170_USB) && definedEx(CONFIG_ATH_COMMON))

@@ -1,0 +1,1 @@
+definedEx(CONFIG_SH_STANDARD_BIOS)

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_NET_DSA_MV88E6131) && definedEx(CONFIG_NET_DSA))

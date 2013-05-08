@@ -1,0 +1,1 @@
+(definedEx(CONFIG_AX25_DAMA_SLAVE) && definedEx(CONFIG_AX25))

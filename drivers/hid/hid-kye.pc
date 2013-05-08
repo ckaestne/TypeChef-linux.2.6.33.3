@@ -1,0 +1,1 @@
+(definedEx(CONFIG_HID_KYE) && definedEx(CONFIG_HID))

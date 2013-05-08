@@ -1,0 +1,1 @@
+(definedEx(CONFIG_PATA_NETCELL) && definedEx(CONFIG_ATA))

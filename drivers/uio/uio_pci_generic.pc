@@ -1,0 +1,1 @@
+(definedEx(CONFIG_UIO_PCI_GENERIC) && definedEx(CONFIG_UIO))

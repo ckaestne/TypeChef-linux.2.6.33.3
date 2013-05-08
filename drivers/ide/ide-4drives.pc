@@ -1,0 +1,1 @@
+(definedEx(CONFIG_BLK_DEV_4DRIVES) && definedEx(CONFIG_IDE))

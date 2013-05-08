@@ -1,0 +1,1 @@
+(definedEx(CONFIG_LEDS_ADP5520) && definedEx(CONFIG_NEW_LEDS))

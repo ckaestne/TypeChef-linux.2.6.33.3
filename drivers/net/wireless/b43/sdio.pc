@@ -1,0 +1,1 @@
+(definedEx(CONFIG_B43_SDIO) && definedEx(CONFIG_B43))

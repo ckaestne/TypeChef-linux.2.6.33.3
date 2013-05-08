@@ -1,0 +1,1 @@
+(definedEx(CONFIG_BATTERY_BQ27x00) && definedEx(CONFIG_POWER_SUPPLY))

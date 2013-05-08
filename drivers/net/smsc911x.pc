@@ -1,0 +1,1 @@
+definedEx(CONFIG_SMSC911X)

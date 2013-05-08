@@ -1,0 +1,1 @@
+(definedEx(CONFIG_CAN_TI_HECC) && definedEx(CONFIG_CAN))

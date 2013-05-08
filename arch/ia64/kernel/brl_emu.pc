@@ -1,0 +1,1 @@
+definedEx(CONFIG_IA64_BRL_EMU)

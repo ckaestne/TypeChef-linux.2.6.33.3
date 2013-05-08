@@ -1,0 +1,1 @@
+(definedEx(CONFIG_RTL8192U) && definedEx(CONFIG_STAGING))

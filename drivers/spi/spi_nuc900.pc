@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SPI_NUC900) && definedEx(CONFIG_SPI))

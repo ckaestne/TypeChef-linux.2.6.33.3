@@ -1,0 +1,1 @@
+(definedEx(CONFIG_EXT3_FS_SECURITY) && definedEx(CONFIG_EXT3_FS))

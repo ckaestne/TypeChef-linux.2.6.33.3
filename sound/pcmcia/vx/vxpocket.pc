@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SND_VXPOCKET) && definedEx(CONFIG_SND))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_HID_GREENASIA) && definedEx(CONFIG_HID))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_HYSDN) && definedEx(CONFIG_ISDN) && definedEx(CONFIG_HYSDN_CAPI))

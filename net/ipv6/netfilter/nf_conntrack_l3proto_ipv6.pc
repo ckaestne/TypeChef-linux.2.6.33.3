@@ -1,0 +1,1 @@
+(definedEx(CONFIG_NETFILTER) && definedEx(CONFIG_IPV6) && definedEx(CONFIG_NF_CONNTRACK_IPV6))

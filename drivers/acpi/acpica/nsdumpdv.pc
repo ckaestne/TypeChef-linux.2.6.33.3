@@ -1,0 +1,1 @@
+(definedEx(CONFIG_ACPI_FUTURE_USAGE) && definedEx(CONFIG_ACPI))

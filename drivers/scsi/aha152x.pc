@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SCSI_AHA152X) && definedEx(CONFIG_SCSI))

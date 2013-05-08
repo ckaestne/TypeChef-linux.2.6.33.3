@@ -1,0 +1,1 @@
+(definedEx(CONFIG_IBMLS) && definedEx(CONFIG_TR))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_HIL_MLC) && definedEx(CONFIG_SERIO))

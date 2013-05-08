@@ -1,0 +1,1 @@
+definedEx(CONFIG_G2_DMA)

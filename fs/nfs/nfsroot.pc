@@ -1,0 +1,1 @@
+(definedEx(CONFIG_ROOT_NFS) && definedEx(CONFIG_NFS_FS))

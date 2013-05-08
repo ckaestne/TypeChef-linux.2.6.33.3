@@ -1,0 +1,1 @@
+(definedEx(CONFIG_PATA_PDC_OLD) && definedEx(CONFIG_ATA))

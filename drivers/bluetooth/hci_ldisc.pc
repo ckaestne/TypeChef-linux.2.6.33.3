@@ -1,0 +1,1 @@
+(definedEx(CONFIG_BT_HCIUART) && definedEx(CONFIG_BT))

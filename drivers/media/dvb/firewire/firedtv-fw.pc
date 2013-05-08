@@ -1,0 +1,1 @@
+(definedEx(CONFIG_DVB_FIREDTV) && definedEx(CONFIG_DVB_CORE) && definedEx(CONFIG_DVB_FIREDTV_FIREWIRE))

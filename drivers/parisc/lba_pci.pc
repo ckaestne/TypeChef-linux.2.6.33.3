@@ -1,0 +1,1 @@
+(definedEx(CONFIG_PCI_LBA) && definedEx(CONFIG_PARISC))

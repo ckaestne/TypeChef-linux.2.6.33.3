@@ -1,0 +1,1 @@
+(definedEx(CONFIG_OMAP2_DSS_SDI) && definedEx(CONFIG_OMAP2_DSS))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_AMCC_PPC440SPE_ADMA) && definedEx(CONFIG_DMA_ENGINE))

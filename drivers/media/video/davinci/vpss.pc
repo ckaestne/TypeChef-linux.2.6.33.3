@@ -1,0 +1,1 @@
+(definedEx(CONFIG_VIDEO_VPSS_SYSTEM) && definedEx(CONFIG_ARCH_DAVINCI))

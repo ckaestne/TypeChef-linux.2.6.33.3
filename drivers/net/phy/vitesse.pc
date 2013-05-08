@@ -1,0 +1,1 @@
+(definedEx(CONFIG_VITESSE_PHY) && definedEx(CONFIG_PHYLIB))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SND_HDA_INTEL) && definedEx(CONFIG_SND) && definedEx(CONFIG_SND_HDA_GENERIC))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_MTD_SC520CDP) && definedEx(CONFIG_MTD))

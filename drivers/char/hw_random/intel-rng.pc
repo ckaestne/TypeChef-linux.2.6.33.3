@@ -1,0 +1,1 @@
+(definedEx(CONFIG_HW_RANDOM_INTEL) && definedEx(CONFIG_HW_RANDOM))

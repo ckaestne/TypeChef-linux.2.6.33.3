@@ -1,0 +1,1 @@
+(definedEx(CONFIG_MA600_DONGLE) && definedEx(CONFIG_IRDA))

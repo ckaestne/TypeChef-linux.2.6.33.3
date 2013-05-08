@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SERIO_RPCKBD) && definedEx(CONFIG_SERIO))

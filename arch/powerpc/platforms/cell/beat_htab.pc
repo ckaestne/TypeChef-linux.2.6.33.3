@@ -1,0 +1,1 @@
+(definedEx(CONFIG_PPC_CELLEB) && definedEx(CONFIG_PPC_CELL))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_P4080_DS) && definedEx(CONFIG_FSL_SOC_BOOKE))

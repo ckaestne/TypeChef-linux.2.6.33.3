@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SCSI_A4000T) && definedEx(CONFIG_SCSI))

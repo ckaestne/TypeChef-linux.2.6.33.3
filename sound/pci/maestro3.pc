@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SND_MAESTRO3) && definedEx(CONFIG_SND))

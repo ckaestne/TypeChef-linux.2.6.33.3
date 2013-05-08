@@ -1,0 +1,1 @@
+(definedEx(CONFIG_ALPHA_SHARK) || definedEx(CONFIG_ALPHA_TITAN) || definedEx(CONFIG_ALPHA_SX164) || definedEx(CONFIG_ALPHA_MIATA) || definedEx(CONFIG_ALPHA_DP264) || definedEx(CONFIG_ALPHA_GENERIC))

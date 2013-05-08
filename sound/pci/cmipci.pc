@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SND_CMIPCI) && definedEx(CONFIG_SND))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SATA_FSL) && definedEx(CONFIG_ATA))

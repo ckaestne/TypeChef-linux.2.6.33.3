@@ -1,0 +1,1 @@
+(definedEx(CONFIG_GIRBIL_DONGLE) && definedEx(CONFIG_IRDA))

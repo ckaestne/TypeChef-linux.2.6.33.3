@@ -1,0 +1,1 @@
+(definedEx(CONFIG_NETFILTER_TPROXY) && definedEx(CONFIG_NETFILTER))

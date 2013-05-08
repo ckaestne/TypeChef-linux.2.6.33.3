@@ -1,0 +1,1 @@
+(definedEx(CONFIG_PPC_PRPMC2800) && definedEx(CONFIG_EMBEDDED6xx))

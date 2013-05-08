@@ -1,0 +1,1 @@
+(definedEx(CONFIG_RT2X00_LIB_PCI) && definedEx(CONFIG_RT2X00))

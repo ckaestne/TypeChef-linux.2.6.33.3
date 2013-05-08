@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SND_INDIGODJ) && definedEx(CONFIG_SND))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_YAM) && definedEx(CONFIG_HAMRADIO))

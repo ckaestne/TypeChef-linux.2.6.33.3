@@ -1,0 +1,1 @@
+(definedEx(CONFIG_HW_RANDOM_TIMERIOMEM) && definedEx(CONFIG_HW_RANDOM))

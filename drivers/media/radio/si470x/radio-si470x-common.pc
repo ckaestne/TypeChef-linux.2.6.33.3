@@ -1,0 +1,1 @@
+(definedEx(CONFIG_RADIO_SI470X) && definedEx(CONFIG_VIDEO_DEV) && (definedEx(CONFIG_USB_SI470X) || definedEx(CONFIG_I2C_SI470X)))

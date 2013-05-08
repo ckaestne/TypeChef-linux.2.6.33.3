@@ -1,0 +1,1 @@
+(definedEx(CONFIG_BT_BNEP) && definedEx(CONFIG_BT))

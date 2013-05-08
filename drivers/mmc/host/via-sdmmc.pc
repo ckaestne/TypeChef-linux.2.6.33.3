@@ -1,0 +1,1 @@
+(definedEx(CONFIG_MMC_VIA_SDMMC) && definedEx(CONFIG_MMC))

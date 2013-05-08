@@ -1,0 +1,1 @@
+(definedEx(CONFIG_IIO) && definedEx(CONFIG_STAGING) && definedEx(CONFIG_IIO_GPIO_TRIGGER))

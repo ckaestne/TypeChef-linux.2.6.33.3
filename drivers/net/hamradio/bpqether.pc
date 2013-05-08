@@ -1,0 +1,1 @@
+(definedEx(CONFIG_BPQETHER) && definedEx(CONFIG_HAMRADIO))

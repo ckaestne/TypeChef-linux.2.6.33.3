@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SERIO_MACEPS2) && definedEx(CONFIG_SERIO))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SERIO_XILINX_XPS_PS2) && definedEx(CONFIG_SERIO))

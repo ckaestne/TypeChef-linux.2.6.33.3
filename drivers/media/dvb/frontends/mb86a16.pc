@@ -1,0 +1,1 @@
+(definedEx(CONFIG_DVB_MB86A16) && definedEx(CONFIG_DVB_CORE))

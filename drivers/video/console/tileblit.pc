@@ -1,0 +1,1 @@
+(definedEx(CONFIG_FB_TILEBLITTING) && definedEx(CONFIG_VT) && definedEx(CONFIG_FRAMEBUFFER_CONSOLE))

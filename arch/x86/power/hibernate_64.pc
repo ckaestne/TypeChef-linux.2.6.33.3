@@ -1,0 +1,1 @@
+(definedEx(CONFIG_64BIT) && definedEx(CONFIG_HIBERNATION) && definedEx(CONFIG_PM))

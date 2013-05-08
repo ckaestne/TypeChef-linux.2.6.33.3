@@ -1,0 +1,1 @@
+(definedEx(CONFIG_ALPHA_GENERIC) || definedEx(CONFIG_ALPHA_RAWHIDE))

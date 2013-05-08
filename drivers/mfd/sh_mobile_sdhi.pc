@@ -1,0 +1,1 @@
+definedEx(CONFIG_MFD_SH_MOBILE_SDHI)

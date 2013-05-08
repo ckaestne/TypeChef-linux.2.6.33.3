@@ -1,0 +1,1 @@
+(definedEx(CONFIG_ACPI_POWER_METER) && definedEx(CONFIG_ACPI))

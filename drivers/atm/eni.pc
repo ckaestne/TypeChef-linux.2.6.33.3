@@ -1,0 +1,1 @@
+(definedEx(CONFIG_ATM_ENI) && definedEx(CONFIG_ATM))

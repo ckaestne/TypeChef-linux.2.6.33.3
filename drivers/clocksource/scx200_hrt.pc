@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SCx200HR_TIMER) && definedEx(CONFIG_GENERIC_TIME))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_CAN_AT91) && definedEx(CONFIG_CAN))

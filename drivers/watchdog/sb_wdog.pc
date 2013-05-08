@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SIBYTE_WDOG) && definedEx(CONFIG_WATCHDOG))

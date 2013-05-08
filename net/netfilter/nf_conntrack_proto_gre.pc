@@ -1,0 +1,1 @@
+(definedEx(CONFIG_NF_CT_PROTO_GRE) && definedEx(CONFIG_NETFILTER))

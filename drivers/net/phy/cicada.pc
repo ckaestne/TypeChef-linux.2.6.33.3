@@ -1,0 +1,1 @@
+(definedEx(CONFIG_CICADA_PHY) && definedEx(CONFIG_PHYLIB))

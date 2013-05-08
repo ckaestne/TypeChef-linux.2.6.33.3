@@ -1,0 +1,1 @@
+(definedEx(CONFIG_MSDOS_FS) && definedEx(CONFIG_FAT_FS))

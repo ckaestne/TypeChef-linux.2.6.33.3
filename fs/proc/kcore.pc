@@ -1,0 +1,1 @@
+(definedEx(CONFIG_PROC_KCORE) && definedEx(CONFIG_PROC_FS))

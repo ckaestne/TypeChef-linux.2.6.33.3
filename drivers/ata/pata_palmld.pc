@@ -1,0 +1,1 @@
+(definedEx(CONFIG_PATA_PALMLD) && definedEx(CONFIG_ATA))

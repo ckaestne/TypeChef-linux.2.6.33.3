@@ -1,0 +1,1 @@
+(definedEx(CONFIG_HIBERNATION_NVS) && (definedEx(CONFIG_PM) || definedEx(CONFIG_FREEZER)))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_MTD_BLOCK2MTD) && definedEx(CONFIG_MTD))

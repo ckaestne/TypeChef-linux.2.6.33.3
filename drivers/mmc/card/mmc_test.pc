@@ -1,0 +1,1 @@
+(definedEx(CONFIG_MMC_TEST) && definedEx(CONFIG_MMC))

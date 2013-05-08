@@ -1,0 +1,1 @@
+(definedEx(CONFIG_LOGO_LINUX_MONO) && definedEx(CONFIG_LOGO))

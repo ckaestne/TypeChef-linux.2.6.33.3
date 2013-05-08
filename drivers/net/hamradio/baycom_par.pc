@@ -1,0 +1,1 @@
+(definedEx(CONFIG_BAYCOM_PAR) && definedEx(CONFIG_HAMRADIO))

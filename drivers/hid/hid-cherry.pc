@@ -1,0 +1,1 @@
+(definedEx(CONFIG_HID_CHERRY) && definedEx(CONFIG_HID))

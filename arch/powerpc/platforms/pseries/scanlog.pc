@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SCANLOG) && definedEx(CONFIG_PPC_PSERIES))

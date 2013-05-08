@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SENSORS_ULTRA45) && definedEx(CONFIG_HWMON))

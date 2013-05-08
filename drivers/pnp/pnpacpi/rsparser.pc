@@ -1,0 +1,1 @@
+(definedEx(CONFIG_PNPACPI) && definedEx(CONFIG_PNP))

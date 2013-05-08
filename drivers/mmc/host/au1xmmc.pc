@@ -1,0 +1,1 @@
+(definedEx(CONFIG_MMC_AU1X) && definedEx(CONFIG_MMC))

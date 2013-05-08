@@ -1,0 +1,1 @@
+(definedEx(CONFIG_MTD_NAND_W90P910) && definedEx(CONFIG_MTD))

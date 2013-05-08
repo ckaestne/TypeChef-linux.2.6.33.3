@@ -1,0 +1,1 @@
+(definedEx(CONFIG_PATA_WINBOND_VLB) && definedEx(CONFIG_ATA))

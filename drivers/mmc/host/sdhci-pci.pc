@@ -1,0 +1,1 @@
+(definedEx(CONFIG_MMC_SDHCI_PCI) && definedEx(CONFIG_MMC))

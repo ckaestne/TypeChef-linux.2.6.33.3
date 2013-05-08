@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SND_SB8_DSP) && definedEx(CONFIG_SND))

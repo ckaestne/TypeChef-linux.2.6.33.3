@@ -1,0 +1,1 @@
+(definedEx(CONFIG_CMM) && definedEx(CONFIG_PPC_PSERIES))

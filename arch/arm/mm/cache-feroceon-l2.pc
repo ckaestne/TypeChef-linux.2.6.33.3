@@ -1,0 +1,1 @@
+definedEx(CONFIG_CACHE_FEROCEON_L2)

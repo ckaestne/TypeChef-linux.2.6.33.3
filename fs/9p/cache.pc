@@ -1,0 +1,1 @@
+(definedEx(CONFIG_9P_FSCACHE) && definedEx(CONFIG_9P_FS))

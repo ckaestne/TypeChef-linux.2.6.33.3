@@ -1,0 +1,1 @@
+(definedEx(CONFIG_EP7211_DONGLE) && definedEx(CONFIG_IRDA))

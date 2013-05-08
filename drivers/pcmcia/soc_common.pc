@@ -1,0 +1,1 @@
+(definedEx(CONFIG_PCMCIA_SOC_COMMON) && definedEx(CONFIG_PCCARD))

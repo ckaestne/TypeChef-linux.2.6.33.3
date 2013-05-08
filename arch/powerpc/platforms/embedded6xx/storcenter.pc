@@ -1,0 +1,1 @@
+(definedEx(CONFIG_STORCENTER) && definedEx(CONFIG_EMBEDDED6xx))

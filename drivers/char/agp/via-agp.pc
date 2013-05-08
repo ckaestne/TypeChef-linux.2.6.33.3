@@ -1,0 +1,1 @@
+(definedEx(CONFIG_AGP_VIA) && definedEx(CONFIG_AGP))

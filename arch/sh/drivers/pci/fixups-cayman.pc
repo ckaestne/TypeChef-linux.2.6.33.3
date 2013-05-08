@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SH_CAYMAN) && definedEx(CONFIG_PCI))

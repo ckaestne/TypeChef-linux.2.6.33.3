@@ -1,0 +1,1 @@
+(definedEx(CONFIG_PCMCIA_XIRC2PS) && definedEx(CONFIG_NET_PCMCIA))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_UBIFS_FS_XATTR) && definedEx(CONFIG_UBIFS_FS))

@@ -1,0 +1,1 @@
+((definedEx(CONFIG_USB) || definedEx(CONFIG_PCI)) && (definedEx(CONFIG_USB_ACM) || definedEx(CONFIG_USB_PRINTER) || definedEx(CONFIG_USB_WDM) || definedEx(CONFIG_USB_TMC)) && definedEx(CONFIG_USB_ACM))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SND_AC97_CODEC) && definedEx(CONFIG_SND) && definedEx(CONFIG_PROC_FS))

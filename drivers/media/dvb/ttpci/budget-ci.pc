@@ -1,0 +1,1 @@
+(definedEx(CONFIG_DVB_BUDGET_CI) && definedEx(CONFIG_DVB_CORE))

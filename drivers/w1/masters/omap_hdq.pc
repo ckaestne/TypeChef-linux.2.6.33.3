@@ -1,0 +1,1 @@
+(definedEx(CONFIG_HDQ_MASTER_OMAP) && definedEx(CONFIG_W1))

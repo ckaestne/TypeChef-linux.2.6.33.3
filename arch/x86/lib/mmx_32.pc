@@ -1,0 +1,1 @@
+(definedEx(CONFIG_X86_USE_3DNOW) && definedEx(CONFIG_X86_32))

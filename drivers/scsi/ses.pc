@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SCSI_ENCLOSURE) && definedEx(CONFIG_SCSI))

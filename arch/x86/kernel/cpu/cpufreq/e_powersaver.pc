@@ -1,0 +1,1 @@
+(definedEx(CONFIG_X86_E_POWERSAVER) && definedEx(CONFIG_CPU_FREQ))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_DELL_WMI) && definedEx(CONFIG_X86))

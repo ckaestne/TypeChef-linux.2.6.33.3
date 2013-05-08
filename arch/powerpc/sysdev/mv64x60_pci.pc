@@ -1,0 +1,1 @@
+(definedEx(CONFIG_PCI) && definedEx(CONFIG_MV64X60))

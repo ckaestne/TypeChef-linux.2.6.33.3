@@ -1,0 +1,1 @@
+(definedEx(CONFIG_CIFS_UPCALL) && definedEx(CONFIG_CIFS))

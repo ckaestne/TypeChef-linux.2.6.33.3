@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SGIWD93_SCSI) && definedEx(CONFIG_SCSI))

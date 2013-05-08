@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SCSI) && (definedEx(CONFIG_SCSI_BNX2_ISCSI) || definedEx(CONFIG_ISCSI_TCP) || definedEx(CONFIG_BE2ISCSI) || definedEx(CONFIG_INFINIBAND_ISER) || definedEx(CONFIG_SCSI_CXGB3_ISCSI)))

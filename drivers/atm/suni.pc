@@ -1,0 +1,1 @@
+((definedEx(CONFIG_ATM) && (definedEx(CONFIG_ATM_IA) || definedEx(CONFIG_ATM_ENI))) || (definedEx(CONFIG_ATM_NICSTAR_USE_SUNI) && definedEx(CONFIG_ATM) && definedEx(CONFIG_ATM_NICSTAR)) || (definedEx(CONFIG_ATM_IDT77252_USE_SUNI) && definedEx(CONFIG_ATM) && definedEx(CONFIG_ATM_IDT77252)) || (definedEx(CONFIG_ATM_HE_USE_SUNI) && definedEx(CONFIG_ATM) && definedEx(CONFIG_ATM_HE)))

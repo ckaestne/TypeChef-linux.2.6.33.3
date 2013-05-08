@@ -1,0 +1,1 @@
+(definedEx(CONFIG_W1_MASTER_MATROX) && definedEx(CONFIG_W1))

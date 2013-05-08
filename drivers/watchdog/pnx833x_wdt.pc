@@ -1,0 +1,1 @@
+(definedEx(CONFIG_PNX833X_WDT) && definedEx(CONFIG_WATCHDOG))

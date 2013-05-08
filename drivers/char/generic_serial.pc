@@ -1,0 +1,1 @@
+(definedEx(CONFIG_MVME162_SCC) || definedEx(CONFIG_BVME6000_SCC) || definedEx(CONFIG_RIO) || definedEx(CONFIG_SX) || definedEx(CONFIG_A2232) || definedEx(CONFIG_MVME147_SCC))

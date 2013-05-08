@@ -1,0 +1,1 @@
+(definedEx(CONFIG_USB_STORAGE_KARMA) && (definedEx(CONFIG_USB) || (definedEx(CONFIG_USB_STORAGE) && definedEx(CONFIG_PCI))))

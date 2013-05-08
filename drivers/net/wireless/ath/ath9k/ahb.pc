@@ -1,0 +1,1 @@
+(definedEx(CONFIG_ATH9K_HW) && definedEx(CONFIG_ATH_COMMON) && definedEx(CONFIG_ATH9K) && definedEx(CONFIG_ATHEROS_AR71XX))

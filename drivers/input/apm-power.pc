@@ -1,0 +1,1 @@
+(definedEx(CONFIG_INPUT_APMPOWER) && definedEx(CONFIG_INPUT))

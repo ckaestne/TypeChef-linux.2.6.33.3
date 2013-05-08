@@ -1,0 +1,1 @@
+(definedEx(CONFIG_PATA_AT32) && definedEx(CONFIG_ATA))

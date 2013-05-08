@@ -1,0 +1,1 @@
+(definedEx(CONFIG_HID_TOPSEED) && definedEx(CONFIG_HID))

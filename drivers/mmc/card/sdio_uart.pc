@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SDIO_UART) && definedEx(CONFIG_MMC))

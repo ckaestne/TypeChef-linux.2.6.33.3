@@ -1,0 +1,1 @@
+(definedEx(CONFIG_VIDEO_DM6446_CCDC) && definedEx(CONFIG_ARCH_DAVINCI))

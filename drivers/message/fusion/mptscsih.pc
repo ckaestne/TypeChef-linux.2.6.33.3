@@ -1,0 +1,1 @@
+(definedEx(CONFIG_FUSION) && (definedEx(CONFIG_FUSION_SPI) || definedEx(CONFIG_FUSION_FC) || definedEx(CONFIG_FUSION_SAS)))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_NUMA_IRQ_DESC) && definedEx(CONFIG_GENERIC_HARDIRQS))

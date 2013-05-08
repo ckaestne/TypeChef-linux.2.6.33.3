@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SUSPEND) && definedEx(CONFIG_PPC_83xx))

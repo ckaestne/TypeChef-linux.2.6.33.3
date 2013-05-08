@@ -1,0 +1,1 @@
+(definedEx(CONFIG_PQ2_ADS_PCI_PIC) && definedEx(CONFIG_PPC_82xx))

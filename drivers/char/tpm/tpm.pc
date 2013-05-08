@@ -1,0 +1,1 @@
+definedEx(CONFIG_TCG_TPM)

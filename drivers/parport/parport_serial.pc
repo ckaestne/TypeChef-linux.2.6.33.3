@@ -1,0 +1,1 @@
+(definedEx(CONFIG_PARPORT_SERIAL) && definedEx(CONFIG_PARPORT))

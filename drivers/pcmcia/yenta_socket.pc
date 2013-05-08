@@ -1,0 +1,1 @@
+(definedEx(CONFIG_YENTA) && definedEx(CONFIG_PCCARD))

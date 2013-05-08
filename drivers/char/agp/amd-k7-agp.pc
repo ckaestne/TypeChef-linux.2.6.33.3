@@ -1,0 +1,1 @@
+(definedEx(CONFIG_AGP_AMD) && definedEx(CONFIG_AGP))

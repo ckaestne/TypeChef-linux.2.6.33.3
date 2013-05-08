@@ -1,0 +1,1 @@
+(definedEx(CONFIG_FSL_SOC_BOOKE) && (definedEx(CONFIG_MPC8540_ADS) || definedEx(CONFIG_MPC8560_ADS)))

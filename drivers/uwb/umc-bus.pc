@@ -1,0 +1,1 @@
+(definedEx(CONFIG_UWB_WHCI) && definedEx(CONFIG_UWB))

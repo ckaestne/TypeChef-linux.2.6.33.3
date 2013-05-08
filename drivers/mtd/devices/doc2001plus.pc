@@ -1,0 +1,1 @@
+(definedEx(CONFIG_MTD_DOC2001PLUS) && definedEx(CONFIG_MTD))

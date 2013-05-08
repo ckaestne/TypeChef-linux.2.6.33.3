@@ -1,0 +1,1 @@
+(definedEx(CONFIG_WL1271) && definedEx(CONFIG_WL12XX))

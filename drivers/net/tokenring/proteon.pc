@@ -1,0 +1,1 @@
+(definedEx(CONFIG_PROTEON) && definedEx(CONFIG_TR))

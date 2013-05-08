@@ -1,0 +1,1 @@
+(definedEx(CONFIG_APRICOT) || definedEx(CONFIG_MVME16x_NET) || definedEx(CONFIG_BVME6000_NET))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_IBMTR) && definedEx(CONFIG_TR))

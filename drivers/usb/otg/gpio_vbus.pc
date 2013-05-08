@@ -1,0 +1,1 @@
+(definedEx(CONFIG_USB_GPIO_VBUS) && definedEx(CONFIG_USB_OTG_UTILS))

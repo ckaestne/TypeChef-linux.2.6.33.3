@@ -1,0 +1,1 @@
+(definedEx(CONFIG_USB_MASS_STORAGE) && definedEx(CONFIG_USB_GADGET))

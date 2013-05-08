@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SND_AU8820) && definedEx(CONFIG_SND))

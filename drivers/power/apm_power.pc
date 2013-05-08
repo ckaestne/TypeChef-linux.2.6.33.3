@@ -1,0 +1,1 @@
+(definedEx(CONFIG_APM_POWER) && definedEx(CONFIG_POWER_SUPPLY))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_OPROFILE_ARM11_CORE) && definedEx(CONFIG_OPROFILE))

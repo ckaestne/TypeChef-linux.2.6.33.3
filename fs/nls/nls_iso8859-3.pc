@@ -1,0 +1,1 @@
+(definedEx(CONFIG_NLS_ISO8859_3) && definedEx(CONFIG_NLS))

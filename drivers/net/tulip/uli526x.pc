@@ -1,0 +1,1 @@
+(definedEx(CONFIG_ULI526X) && definedEx(CONFIG_NET_TULIP))

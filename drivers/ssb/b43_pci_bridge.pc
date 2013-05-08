@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SSB_B43_PCI_BRIDGE) && definedEx(CONFIG_SSB))

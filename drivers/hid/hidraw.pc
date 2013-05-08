@@ -1,0 +1,1 @@
+(definedEx(CONFIG_HIDRAW) && definedEx(CONFIG_HID))

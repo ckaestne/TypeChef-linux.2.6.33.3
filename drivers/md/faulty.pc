@@ -1,0 +1,1 @@
+(definedEx(CONFIG_MD_FAULTY) && definedEx(CONFIG_MD))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_MMC_DAVINCI) && definedEx(CONFIG_MMC))

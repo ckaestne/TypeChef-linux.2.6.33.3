@@ -1,0 +1,1 @@
+(definedEx(CONFIG_XFS_RT) && definedEx(CONFIG_XFS_FS))

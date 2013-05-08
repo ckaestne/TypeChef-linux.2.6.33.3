@@ -1,0 +1,1 @@
+(definedEx(CONFIG_IDE_PHISON) && definedEx(CONFIG_STAGING))

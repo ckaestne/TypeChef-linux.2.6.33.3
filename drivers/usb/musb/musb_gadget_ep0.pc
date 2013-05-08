@@ -1,0 +1,1 @@
+(definedEx(CONFIG_USB_GADGET_MUSB_HDRC) && definedEx(CONFIG_USB_MUSB_HDRC))

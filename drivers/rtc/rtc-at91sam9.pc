@@ -1,0 +1,1 @@
+(definedEx(CONFIG_RTC_DRV_AT91SAM9) && definedEx(CONFIG_RTC_LIB))

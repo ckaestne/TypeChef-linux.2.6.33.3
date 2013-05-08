@@ -1,0 +1,1 @@
+(definedEx(CONFIG_MAGIC_SYSRQ) && (definedEx(CONFIG_PM) || definedEx(CONFIG_FREEZER)))

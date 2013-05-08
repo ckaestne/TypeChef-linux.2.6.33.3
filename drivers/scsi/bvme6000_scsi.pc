@@ -1,0 +1,1 @@
+(definedEx(CONFIG_BVME6000_SCSI) && definedEx(CONFIG_SCSI))

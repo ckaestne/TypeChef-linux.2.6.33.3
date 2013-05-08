@@ -1,0 +1,1 @@
+(definedEx(CONFIG_ARM) && definedEx(CONFIG_SCSI) && (definedEx(CONFIG_SCSI_ARXESCSI) || definedEx(CONFIG_SCSI_ACORNSCSI_3) || definedEx(CONFIG_SCSI_POWERTECSCSI) || definedEx(CONFIG_SCSI_CUMANA_2) || definedEx(CONFIG_SCSI_EESOXSCSI)))

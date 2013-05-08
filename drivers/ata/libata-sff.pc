@@ -1,0 +1,1 @@
+(definedEx(CONFIG_ATA_SFF) && definedEx(CONFIG_ATA))

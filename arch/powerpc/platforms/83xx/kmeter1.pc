@@ -1,0 +1,1 @@
+(definedEx(CONFIG_KMETER1) && definedEx(CONFIG_PPC_83xx))

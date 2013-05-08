@@ -1,0 +1,1 @@
+(definedEx(CONFIG_BLK_DEV_FALCON_IDE) && definedEx(CONFIG_IDE))

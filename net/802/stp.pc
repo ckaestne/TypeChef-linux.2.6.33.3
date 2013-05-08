@@ -1,0 +1,1 @@
+(definedEx(CONFIG_STP) && definedEx(CONFIG_NET))

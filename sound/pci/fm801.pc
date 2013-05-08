@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SND_FM801) && definedEx(CONFIG_SND))

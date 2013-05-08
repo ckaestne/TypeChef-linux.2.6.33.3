@@ -1,0 +1,1 @@
+(definedEx(CONFIG_COH901318) && definedEx(CONFIG_DMA_ENGINE))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_PCMCIA_AU1X00) && definedEx(CONFIG_PCCARD) && definedEx(CONFIG_MIPS_XXS1500))

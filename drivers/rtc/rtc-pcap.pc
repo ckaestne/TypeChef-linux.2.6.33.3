@@ -1,0 +1,1 @@
+(definedEx(CONFIG_RTC_DRV_PCAP) && definedEx(CONFIG_RTC_LIB))

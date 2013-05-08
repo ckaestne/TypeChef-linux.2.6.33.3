@@ -1,0 +1,1 @@
+(definedEx(CONFIG_JFS_POSIX_ACL) && definedEx(CONFIG_JFS_FS))

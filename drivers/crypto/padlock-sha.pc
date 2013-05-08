@@ -1,0 +1,1 @@
+(definedEx(CONFIG_CRYPTO_DEV_PADLOCK_SHA) && definedEx(CONFIG_CRYPTO))

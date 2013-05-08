@@ -1,0 +1,1 @@
+(definedEx(CONFIG_LOGO_SUN_CLUT224) && definedEx(CONFIG_LOGO))

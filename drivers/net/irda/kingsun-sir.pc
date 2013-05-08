@@ -1,0 +1,1 @@
+(definedEx(CONFIG_KINGSUN_DONGLE) && definedEx(CONFIG_IRDA))

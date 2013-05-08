@@ -1,0 +1,1 @@
+(definedEx(CONFIG_AUDIT) && definedEx(CONFIG_PPC64))

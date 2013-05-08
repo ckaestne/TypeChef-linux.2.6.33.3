@@ -1,0 +1,1 @@
+(definedEx(CONFIG_DM_DELAY) && definedEx(CONFIG_MD))

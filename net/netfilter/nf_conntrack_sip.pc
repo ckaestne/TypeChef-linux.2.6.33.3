@@ -1,0 +1,1 @@
+(definedEx(CONFIG_NF_CONNTRACK_SIP) && definedEx(CONFIG_NETFILTER))

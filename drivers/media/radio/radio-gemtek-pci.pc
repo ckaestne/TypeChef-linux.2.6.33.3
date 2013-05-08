@@ -1,0 +1,1 @@
+(definedEx(CONFIG_RADIO_GEMTEK_PCI) && definedEx(CONFIG_VIDEO_DEV))

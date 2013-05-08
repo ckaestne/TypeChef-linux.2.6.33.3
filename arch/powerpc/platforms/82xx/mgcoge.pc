@@ -1,0 +1,1 @@
+(definedEx(CONFIG_MGCOGE) && definedEx(CONFIG_PPC_82xx))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SCSI_PM8001) && definedEx(CONFIG_SCSI))

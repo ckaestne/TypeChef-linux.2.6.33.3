@@ -1,0 +1,1 @@
+(definedEx(CONFIG_IBM_NEW_EMAC_RGMII) && definedEx(CONFIG_IBM_NEW_EMAC))

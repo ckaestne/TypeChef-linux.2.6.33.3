@@ -1,0 +1,1 @@
+(definedEx(CONFIG_ISDN_DRV_GIGASET) && definedEx(CONFIG_ISDN) && definedEx(CONFIG_GIGASET_I4L))

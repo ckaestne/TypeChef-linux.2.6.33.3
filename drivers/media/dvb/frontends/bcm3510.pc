@@ -1,0 +1,1 @@
+(definedEx(CONFIG_DVB_BCM3510) && definedEx(CONFIG_DVB_CORE))

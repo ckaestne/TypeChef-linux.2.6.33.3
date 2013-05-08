@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SND_GUSCLASSIC) && definedEx(CONFIG_SND))

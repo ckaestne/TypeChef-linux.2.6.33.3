@@ -1,0 +1,1 @@
+(definedEx(CONFIG_ALPHA_EB64P) || definedEx(CONFIG_ALPHA_EB66) || definedEx(CONFIG_ALPHA_GENERIC))

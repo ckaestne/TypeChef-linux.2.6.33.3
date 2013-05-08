@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SND_VX_LIB) && definedEx(CONFIG_SND))

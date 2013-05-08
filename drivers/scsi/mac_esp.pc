@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SCSI_MAC_ESP) && definedEx(CONFIG_SCSI))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_CPU_SH4) && definedEx(CONFIG_DEBUG_FS))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_PATA_CMD640_PCI) && definedEx(CONFIG_ATA))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SIGMATEL_FIR) && definedEx(CONFIG_IRDA))

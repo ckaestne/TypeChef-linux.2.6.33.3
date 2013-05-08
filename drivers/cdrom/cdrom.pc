@@ -1,0 +1,1 @@
+(definedEx(CONFIG_BLK_DEV_SR) || definedEx(CONFIG_VIOCD) || definedEx(CONFIG_BLK_DEV_IDECD) || definedEx(CONFIG_PARIDE_PCD) || definedEx(CONFIG_CDROM_PKTCDVD) || definedEx(CONFIG_GDROM))

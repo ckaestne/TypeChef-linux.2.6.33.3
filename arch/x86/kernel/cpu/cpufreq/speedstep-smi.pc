@@ -1,0 +1,1 @@
+(definedEx(CONFIG_X86_SPEEDSTEP_SMI) && definedEx(CONFIG_CPU_FREQ))

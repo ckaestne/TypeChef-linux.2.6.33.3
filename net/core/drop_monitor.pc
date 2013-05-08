@@ -1,0 +1,1 @@
+(definedEx(CONFIG_NET_DROP_MONITOR) && definedEx(CONFIG_NET))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_MTD_PARTITIONS) && definedEx(CONFIG_MTD))

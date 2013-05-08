@@ -1,0 +1,1 @@
+(definedEx(CONFIG_DM_MULTIPATH_ST) && definedEx(CONFIG_MD))

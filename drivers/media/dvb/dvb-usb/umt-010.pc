@@ -1,0 +1,1 @@
+(definedEx(CONFIG_DVB_USB_UMT_010) && definedEx(CONFIG_DVB_CORE))

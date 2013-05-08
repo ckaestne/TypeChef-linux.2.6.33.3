@@ -1,0 +1,1 @@
+(definedEx(CONFIG_NF_CONNTRACK_PPTP) && definedEx(CONFIG_NETFILTER))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_AFIUCV) && definedEx(CONFIG_IUCV))

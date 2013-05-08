@@ -1,0 +1,1 @@
+(definedEx(CONFIG_CAN_MCP251X) && definedEx(CONFIG_CAN))

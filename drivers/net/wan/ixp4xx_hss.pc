@@ -1,0 +1,1 @@
+(definedEx(CONFIG_IXP4XX_HSS) && definedEx(CONFIG_WAN))

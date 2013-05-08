@@ -1,0 +1,1 @@
+(definedEx(CONFIG_REISERFS_PROC_INFO) && definedEx(CONFIG_REISERFS_FS))

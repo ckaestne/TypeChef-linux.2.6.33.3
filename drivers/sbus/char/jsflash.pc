@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SBUSCHAR) && definedEx(CONFIG_SBUS) && definedEx(CONFIG_SUN_JSFLASH))

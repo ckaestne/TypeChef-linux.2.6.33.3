@@ -1,0 +1,1 @@
+(definedEx(CONFIG_INET_XFRM_MODE_TUNNEL) && definedEx(CONFIG_INET))

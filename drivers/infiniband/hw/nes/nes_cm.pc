@@ -1,0 +1,1 @@
+(definedEx(CONFIG_INFINIBAND_NES) && definedEx(CONFIG_INFINIBAND))

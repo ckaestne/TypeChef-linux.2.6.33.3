@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SCSI_EATA) && definedEx(CONFIG_SCSI))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_BRIDGE_NETFILTER) && definedEx(CONFIG_BRIDGE))

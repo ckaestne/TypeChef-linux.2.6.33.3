@@ -1,0 +1,1 @@
+(definedEx(CONFIG_BLK_DEV_GAYLE) && definedEx(CONFIG_IDE))

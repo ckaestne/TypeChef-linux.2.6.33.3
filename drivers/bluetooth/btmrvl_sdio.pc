@@ -1,0 +1,1 @@
+(definedEx(CONFIG_BT_MRVL_SDIO) && definedEx(CONFIG_BT))

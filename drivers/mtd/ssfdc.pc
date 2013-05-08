@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SSFDC) && definedEx(CONFIG_MTD))

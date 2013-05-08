@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SERIO_Q40KBD) && definedEx(CONFIG_SERIO))

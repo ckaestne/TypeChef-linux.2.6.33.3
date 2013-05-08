@@ -1,0 +1,1 @@
+(definedEx(CONFIG_LEGACY_PTYS) || definedEx(CONFIG_UNIX98_PTYS))

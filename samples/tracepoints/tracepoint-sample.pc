@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SAMPLE_TRACEPOINTS) && definedEx(CONFIG_SAMPLES))

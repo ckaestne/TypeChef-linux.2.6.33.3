@@ -1,0 +1,1 @@
+(definedEx(CONFIG_MPC7448HPC2) && definedEx(CONFIG_EMBEDDED6xx))

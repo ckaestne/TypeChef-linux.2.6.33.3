@@ -1,0 +1,1 @@
+(definedEx(CONFIG_EDAC_DECODE_MCE) && definedEx(CONFIG_EDAC))

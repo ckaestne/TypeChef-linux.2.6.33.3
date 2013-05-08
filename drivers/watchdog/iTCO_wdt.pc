@@ -1,0 +1,1 @@
+(definedEx(CONFIG_ITCO_WDT) && definedEx(CONFIG_WATCHDOG))

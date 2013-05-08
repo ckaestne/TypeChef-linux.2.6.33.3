@@ -1,0 +1,1 @@
+(definedEx(CONFIG_HVC_CONSOLE) && definedEx(CONFIG_PPC_PSERIES))

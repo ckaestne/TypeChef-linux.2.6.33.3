@@ -1,0 +1,1 @@
+(definedEx(CONFIG_RTC_DRV_DS1302) && definedEx(CONFIG_RTC_LIB))

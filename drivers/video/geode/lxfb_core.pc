@@ -1,0 +1,1 @@
+(definedEx(CONFIG_FB_GEODE_LX) && definedEx(CONFIG_FB_GEODE))

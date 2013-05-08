@@ -1,0 +1,1 @@
+(definedEx(CONFIG_PARPORT_MFC3) && definedEx(CONFIG_PARPORT))

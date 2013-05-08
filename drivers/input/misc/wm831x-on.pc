@@ -1,0 +1,1 @@
+(definedEx(CONFIG_INPUT_MISC) && definedEx(CONFIG_INPUT) && definedEx(CONFIG_INPUT_WM831X_ON))

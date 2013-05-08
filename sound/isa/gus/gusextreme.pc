@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SND_GUSEXTREME) && definedEx(CONFIG_SND))

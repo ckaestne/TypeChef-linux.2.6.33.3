@@ -1,0 +1,1 @@
+(definedEx(CONFIG_RT2500PCI) && definedEx(CONFIG_RT2X00))

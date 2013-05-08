@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SND_OPL3_LIB_SEQ) && definedEx(CONFIG_SND))

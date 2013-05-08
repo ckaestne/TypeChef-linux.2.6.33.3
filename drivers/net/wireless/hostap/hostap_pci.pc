@@ -1,0 +1,1 @@
+(definedEx(CONFIG_HOSTAP_PCI) && definedEx(CONFIG_HOSTAP))

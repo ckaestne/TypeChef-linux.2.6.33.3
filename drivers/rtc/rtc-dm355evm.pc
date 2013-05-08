@@ -1,0 +1,1 @@
+(definedEx(CONFIG_RTC_DRV_DM355EVM) && definedEx(CONFIG_RTC_LIB))

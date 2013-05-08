@@ -1,0 +1,1 @@
+definedEx(CONFIG_HWPOISON_INJECT)

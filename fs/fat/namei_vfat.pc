@@ -1,0 +1,1 @@
+(definedEx(CONFIG_VFAT_FS) && definedEx(CONFIG_FAT_FS))

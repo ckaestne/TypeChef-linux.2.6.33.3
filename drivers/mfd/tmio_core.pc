@@ -1,0 +1,1 @@
+(definedEx(CONFIG_MFD_ASIC3) || definedEx(CONFIG_MFD_T7L66XB) || definedEx(CONFIG_MFD_TC6387XB) || definedEx(CONFIG_MFD_TC6393XB))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_X86_MCE_THRESHOLD) && definedEx(CONFIG_X86_MCE))

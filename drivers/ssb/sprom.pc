@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SSB_SPROM) && definedEx(CONFIG_SSB))

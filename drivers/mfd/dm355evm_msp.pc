@@ -1,0 +1,1 @@
+definedEx(CONFIG_MFD_DM355EVM_MSP)

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SATA_SX4) && definedEx(CONFIG_ATA))

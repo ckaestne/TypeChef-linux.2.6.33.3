@@ -1,0 +1,1 @@
+(definedEx(CONFIG_ATARI_KBD_CORE) && definedEx(CONFIG_ATARI))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_DW_DMAC) && definedEx(CONFIG_DMA_ENGINE))

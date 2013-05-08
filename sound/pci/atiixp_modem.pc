@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SND_ATIIXP_MODEM) && definedEx(CONFIG_SND))

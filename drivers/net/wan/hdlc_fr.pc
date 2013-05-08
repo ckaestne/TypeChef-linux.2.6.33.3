@@ -1,0 +1,1 @@
+(definedEx(CONFIG_HDLC_FR) && definedEx(CONFIG_WAN))

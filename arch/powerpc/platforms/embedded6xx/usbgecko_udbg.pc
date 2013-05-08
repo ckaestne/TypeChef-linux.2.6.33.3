@@ -1,0 +1,1 @@
+(definedEx(CONFIG_USBGECKO_UDBG) && definedEx(CONFIG_EMBEDDED6xx))

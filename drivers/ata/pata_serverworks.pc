@@ -1,0 +1,1 @@
+(definedEx(CONFIG_PATA_SERVERWORKS) && definedEx(CONFIG_ATA))

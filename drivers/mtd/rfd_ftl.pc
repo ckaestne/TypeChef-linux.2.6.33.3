@@ -1,0 +1,1 @@
+(definedEx(CONFIG_RFD_FTL) && definedEx(CONFIG_MTD))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_MCA_PROC_FS) && definedEx(CONFIG_MCA))

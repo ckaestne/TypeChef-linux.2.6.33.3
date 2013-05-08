@@ -1,0 +1,1 @@
+(definedEx(CONFIG_DVB_TUNER_DIB0090) && definedEx(CONFIG_DVB_CORE))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_HOTPLUG_PCI) && definedEx(CONFIG_PCI) && definedEx(CONFIG_HOTPLUG_PCI_SHPC))

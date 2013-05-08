@@ -1,0 +1,1 @@
+(definedEx(CONFIG_AU1000_FIR) && definedEx(CONFIG_IRDA))

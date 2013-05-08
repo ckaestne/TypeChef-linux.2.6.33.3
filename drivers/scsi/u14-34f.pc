@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SCSI_U14_34F) && definedEx(CONFIG_SCSI))

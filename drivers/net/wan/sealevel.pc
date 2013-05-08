@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SEALEVEL_4021) && definedEx(CONFIG_WAN))

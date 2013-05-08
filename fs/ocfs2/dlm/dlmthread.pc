@@ -1,0 +1,1 @@
+(definedEx(CONFIG_OCFS2_FS_O2CB) && definedEx(CONFIG_OCFS2_FS))

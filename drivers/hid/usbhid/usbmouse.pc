@@ -1,0 +1,1 @@
+(definedEx(CONFIG_HID) && (definedEx(CONFIG_USB_HID) || definedEx(CONFIG_USB_MOUSE) || definedEx(CONFIG_USB_KBD)) && definedEx(CONFIG_USB_MOUSE))

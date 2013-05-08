@@ -1,0 +1,1 @@
+(definedEx(CONFIG_REISERFS_FS_XATTR) && definedEx(CONFIG_REISERFS_FS))

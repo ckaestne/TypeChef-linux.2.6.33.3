@@ -1,0 +1,1 @@
+(definedEx(CONFIG_HID_THRUSTMASTER) && definedEx(CONFIG_HID))

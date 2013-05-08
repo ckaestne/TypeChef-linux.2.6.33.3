@@ -1,0 +1,1 @@
+(definedEx(CONFIG_TOIM3232_DONGLE) && definedEx(CONFIG_IRDA))

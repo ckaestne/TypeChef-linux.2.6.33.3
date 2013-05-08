@@ -1,0 +1,1 @@
+(definedEx(CONFIG_PHONE_IXJ) && definedEx(CONFIG_PHONE))

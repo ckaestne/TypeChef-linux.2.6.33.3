@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SND_AOA_SOUNDBUS) && definedEx(CONFIG_SND_AOA))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_HW_RANDOM_GEODE) && definedEx(CONFIG_HW_RANDOM))

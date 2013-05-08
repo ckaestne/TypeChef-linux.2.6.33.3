@@ -1,0 +1,1 @@
+(definedEx(CONFIG_RADIO_SI4713) && definedEx(CONFIG_VIDEO_DEV))

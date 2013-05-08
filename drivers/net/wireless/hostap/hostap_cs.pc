@@ -1,0 +1,1 @@
+(definedEx(CONFIG_HOSTAP_CS) && definedEx(CONFIG_HOSTAP))

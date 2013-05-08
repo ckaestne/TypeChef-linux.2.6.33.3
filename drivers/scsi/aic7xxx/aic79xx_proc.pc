@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SCSI) && (definedEx(CONFIG_SCSI_AIC7XXX) || definedEx(CONFIG_SCSI_AIC79XX)) && definedEx(CONFIG_SCSI_AIC79XX))

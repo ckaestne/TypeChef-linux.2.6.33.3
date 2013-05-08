@@ -1,0 +1,1 @@
+(definedEx(CONFIG_PATA_EFAR) && definedEx(CONFIG_ATA))

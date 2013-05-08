@@ -1,0 +1,1 @@
+(definedEx(CONFIG_IWLAGN) && definedEx(CONFIG_IWLWIFI))

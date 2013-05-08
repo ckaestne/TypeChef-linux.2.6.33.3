@@ -1,0 +1,1 @@
+(definedEx(CONFIG_HW_RANDOM_N2RNG) && definedEx(CONFIG_HW_RANDOM))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_CHELSIO_T1_1G) && definedEx(CONFIG_CHELSIO_T1))

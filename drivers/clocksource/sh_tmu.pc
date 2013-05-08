@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SH_TIMER_TMU) && definedEx(CONFIG_GENERIC_TIME))

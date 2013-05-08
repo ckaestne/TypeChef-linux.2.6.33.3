@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SND_MPU401_UART) && definedEx(CONFIG_SND))

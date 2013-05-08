@@ -1,0 +1,1 @@
+(definedEx(CONFIG_HID_KENSINGTON) && definedEx(CONFIG_HID))

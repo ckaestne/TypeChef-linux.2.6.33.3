@@ -1,0 +1,1 @@
+(definedEx(CONFIG_RADIO_CADET) && definedEx(CONFIG_VIDEO_DEV))

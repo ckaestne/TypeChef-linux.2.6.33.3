@@ -1,0 +1,1 @@
+(definedEx(CONFIG_REGULATOR_BQ24022) && definedEx(CONFIG_REGULATOR))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_DEBUG_FS) && definedEx(CONFIG_MMC))

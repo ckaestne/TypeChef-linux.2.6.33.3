@@ -1,0 +1,1 @@
+definedEx(CONFIG_WINDFARM_PM81)

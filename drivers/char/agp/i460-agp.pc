@@ -1,0 +1,1 @@
+(definedEx(CONFIG_AGP_I460) && definedEx(CONFIG_AGP))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_FB_I810_GTF) && definedEx(CONFIG_FB_I810))

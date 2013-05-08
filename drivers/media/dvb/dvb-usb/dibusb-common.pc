@@ -1,0 +1,1 @@
+(definedEx(CONFIG_DVB_CORE) && (definedEx(CONFIG_DVB_USB_UMT_010) || definedEx(CONFIG_DVB_USB_DIBUSB_MC) || definedEx(CONFIG_DVB_USB_A800) || definedEx(CONFIG_DVB_USB_DIBUSB_MB) || definedEx(CONFIG_DVB_USB_NOVA_T_USB2)))

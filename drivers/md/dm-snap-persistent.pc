@@ -1,0 +1,1 @@
+(definedEx(CONFIG_DM_SNAPSHOT) && definedEx(CONFIG_MD))

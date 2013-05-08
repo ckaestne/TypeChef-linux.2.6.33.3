@@ -1,0 +1,1 @@
+(definedEx(CONFIG_IDE_GD) && definedEx(CONFIG_IDE) && definedEx(CONFIG_IDE_GD_ATAPI) && definedEx(CONFIG_IDE_PROC_FS))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SOUND_SH_DAC_AUDIO) && (definedEx(CONFIG_SOUND_PRIME) || definedEx(CONFIG_DMASOUND)))

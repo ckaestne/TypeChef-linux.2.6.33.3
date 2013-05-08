@@ -1,0 +1,1 @@
+(definedEx(CONFIG_AGP_UNINORTH) && definedEx(CONFIG_AGP))

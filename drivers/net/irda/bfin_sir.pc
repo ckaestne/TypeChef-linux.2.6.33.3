@@ -1,0 +1,1 @@
+(definedEx(CONFIG_BFIN_SIR) && definedEx(CONFIG_IRDA))

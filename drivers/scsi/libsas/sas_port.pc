@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SCSI_SAS_LIBSAS) && definedEx(CONFIG_SCSI))

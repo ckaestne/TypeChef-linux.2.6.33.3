@@ -1,0 +1,1 @@
+(definedEx(CONFIG_C101) && definedEx(CONFIG_WAN))

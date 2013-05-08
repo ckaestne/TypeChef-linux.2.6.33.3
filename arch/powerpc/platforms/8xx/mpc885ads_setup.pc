@@ -1,0 +1,1 @@
+(definedEx(CONFIG_MPC885ADS) && definedEx(CONFIG_PPC_8xx))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_ARM_ETHER1) && definedEx(CONFIG_ARM))

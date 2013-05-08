@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SAMPLE_TRACE_EVENTS) && definedEx(CONFIG_SAMPLES))

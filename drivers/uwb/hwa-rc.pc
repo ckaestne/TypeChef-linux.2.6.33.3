@@ -1,0 +1,1 @@
+(definedEx(CONFIG_UWB_HWA) && definedEx(CONFIG_UWB))

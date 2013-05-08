@@ -1,0 +1,1 @@
+(definedEx(CONFIG_INET6_AH) && definedEx(CONFIG_IPV6))

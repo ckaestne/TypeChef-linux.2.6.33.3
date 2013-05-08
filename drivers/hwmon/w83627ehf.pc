@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SENSORS_W83627EHF) && definedEx(CONFIG_HWMON))

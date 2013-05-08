@@ -1,0 +1,1 @@
+(definedEx(CONFIG_ISP1301_OMAP) && definedEx(CONFIG_USB_OTG_UTILS))

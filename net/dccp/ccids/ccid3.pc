@@ -1,0 +1,1 @@
+(definedEx(CONFIG_IP_DCCP_CCID3) && definedEx(CONFIG_IP_DCCP))

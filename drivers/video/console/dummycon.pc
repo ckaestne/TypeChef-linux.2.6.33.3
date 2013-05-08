@@ -1,0 +1,1 @@
+(definedEx(CONFIG_DUMMY_CONSOLE) && definedEx(CONFIG_VT))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_X86_GX_SUSPMOD) && definedEx(CONFIG_CPU_FREQ))

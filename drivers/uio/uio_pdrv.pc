@@ -1,0 +1,1 @@
+(definedEx(CONFIG_UIO_PDRV) && definedEx(CONFIG_UIO))

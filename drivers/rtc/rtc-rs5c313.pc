@@ -1,0 +1,1 @@
+(definedEx(CONFIG_RTC_DRV_RS5C313) && definedEx(CONFIG_RTC_LIB))

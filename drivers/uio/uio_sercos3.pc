@@ -1,0 +1,1 @@
+(definedEx(CONFIG_UIO_SERCOS3) && definedEx(CONFIG_UIO))

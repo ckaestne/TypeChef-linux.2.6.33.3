@@ -1,0 +1,1 @@
+(definedEx(CONFIG_MACHZ_WDT) && definedEx(CONFIG_WATCHDOG))

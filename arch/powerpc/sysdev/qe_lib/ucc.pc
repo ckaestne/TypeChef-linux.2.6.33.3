@@ -1,0 +1,1 @@
+(definedEx(CONFIG_UCC) && definedEx(CONFIG_QUICC_ENGINE))

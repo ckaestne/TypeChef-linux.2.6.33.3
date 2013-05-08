@@ -1,0 +1,1 @@
+(definedEx(CONFIG_ACPI_CONTAINER) && definedEx(CONFIG_ACPI))

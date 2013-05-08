@@ -1,0 +1,1 @@
+(definedEx(CONFIG_MLX4_INFINIBAND) && definedEx(CONFIG_INFINIBAND))

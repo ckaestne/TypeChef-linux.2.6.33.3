@@ -1,0 +1,1 @@
+(definedEx(CONFIG_AXON_MSI) && definedEx(CONFIG_PPC_CELL))

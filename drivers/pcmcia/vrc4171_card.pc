@@ -1,0 +1,1 @@
+(definedEx(CONFIG_PCMCIA_VRC4171) && definedEx(CONFIG_PCCARD))

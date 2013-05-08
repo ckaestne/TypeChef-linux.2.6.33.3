@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SND_AOA_FABRIC_LAYOUT) && definedEx(CONFIG_SND_AOA))

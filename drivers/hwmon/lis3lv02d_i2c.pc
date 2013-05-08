@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SENSORS_LIS3_I2C) && definedEx(CONFIG_HWMON))

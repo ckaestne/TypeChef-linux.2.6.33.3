@@ -1,0 +1,1 @@
+(definedEx(CONFIG_IDE_GENERIC) && definedEx(CONFIG_IDE))

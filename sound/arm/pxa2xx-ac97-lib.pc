@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SND_PXA2XX_LIB) && definedEx(CONFIG_SND) && definedEx(CONFIG_SND_PXA2XX_LIB_AC97))

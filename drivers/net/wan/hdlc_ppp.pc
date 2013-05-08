@@ -1,0 +1,1 @@
+(definedEx(CONFIG_HDLC_PPP) && definedEx(CONFIG_WAN))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SND_EMU10K1X) && definedEx(CONFIG_SND))

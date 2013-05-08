@@ -1,0 +1,1 @@
+(definedEx(CONFIG_X86_ANCIENT_MCE) && definedEx(CONFIG_X86_MCE))

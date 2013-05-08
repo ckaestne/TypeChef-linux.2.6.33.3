@@ -1,0 +1,1 @@
+(definedEx(CONFIG_MTD_WRSBC8260) && definedEx(CONFIG_MTD))

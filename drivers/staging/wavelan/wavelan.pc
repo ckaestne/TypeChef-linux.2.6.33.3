@@ -1,0 +1,1 @@
+(definedEx(CONFIG_STAGING) && (definedEx(CONFIG_WAVELAN) || definedEx(CONFIG_PCMCIA_WAVELAN)) && definedEx(CONFIG_WAVELAN))

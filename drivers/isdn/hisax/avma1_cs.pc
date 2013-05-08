@@ -1,0 +1,1 @@
+(definedEx(CONFIG_ISDN_DRV_HISAX) && definedEx(CONFIG_ISDN) && definedEx(CONFIG_HISAX_AVM_A1_CS))

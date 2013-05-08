@@ -1,0 +1,1 @@
+(definedEx(CONFIG_DVB_DIB7000P) && definedEx(CONFIG_DVB_CORE))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_WM8350_WATCHDOG) && definedEx(CONFIG_WATCHDOG))

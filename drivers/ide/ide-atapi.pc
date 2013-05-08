@@ -1,0 +1,1 @@
+(definedEx(CONFIG_IDE_ATAPI) && definedEx(CONFIG_IDE))

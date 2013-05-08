@@ -1,0 +1,1 @@
+(definedEx(CONFIG_PATA_OPTI) && definedEx(CONFIG_ATA))

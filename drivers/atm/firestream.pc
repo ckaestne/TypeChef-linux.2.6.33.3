@@ -1,0 +1,1 @@
+(definedEx(CONFIG_ATM_FIRESTREAM) && definedEx(CONFIG_ATM))

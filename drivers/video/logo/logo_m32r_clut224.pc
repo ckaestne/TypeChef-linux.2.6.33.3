@@ -1,0 +1,1 @@
+(definedEx(CONFIG_LOGO_M32R_CLUT224) && definedEx(CONFIG_LOGO))

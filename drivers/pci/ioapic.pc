@@ -1,0 +1,1 @@
+(definedEx(CONFIG_PCI_IOAPIC) && definedEx(CONFIG_PCI))

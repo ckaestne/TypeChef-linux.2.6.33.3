@@ -1,0 +1,1 @@
+(definedEx(CONFIG_MTD_DC21285) && definedEx(CONFIG_MTD))

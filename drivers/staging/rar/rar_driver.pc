@@ -1,0 +1,1 @@
+(definedEx(CONFIG_RAR_REGISTER) && definedEx(CONFIG_STAGING))

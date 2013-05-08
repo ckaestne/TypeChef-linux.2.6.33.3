@@ -1,0 +1,1 @@
+(definedEx(CONFIG_ISAPNP) && definedEx(CONFIG_PNP))

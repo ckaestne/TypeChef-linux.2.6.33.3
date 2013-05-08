@@ -1,0 +1,1 @@
+(definedEx(CONFIG_TEKRAM_DONGLE) && definedEx(CONFIG_IRDA))

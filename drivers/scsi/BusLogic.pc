@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SCSI_BUSLOGIC) && definedEx(CONFIG_SCSI))

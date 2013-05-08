@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SGI_XP) && (definedEx(CONFIG_IA64_SGI_UV) || definedEx(CONFIG_X86_64)))

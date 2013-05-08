@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SND_RME9652) && definedEx(CONFIG_SND))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_USBPCWATCHDOG) && definedEx(CONFIG_WATCHDOG))

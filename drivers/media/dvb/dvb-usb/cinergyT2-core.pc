@@ -1,0 +1,1 @@
+(definedEx(CONFIG_DVB_USB_CINERGY_T2) && definedEx(CONFIG_DVB_CORE))

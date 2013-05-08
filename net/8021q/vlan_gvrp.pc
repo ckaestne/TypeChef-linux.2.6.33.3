@@ -1,0 +1,1 @@
+(definedEx(CONFIG_VLAN_8021Q_GVRP) && definedEx(CONFIG_VLAN_8021Q))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_CHASSIS_LCD_LED) && definedEx(CONFIG_PARISC))

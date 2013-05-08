@@ -1,0 +1,1 @@
+(definedEx(CONFIG_ALPHA_SABLE) || definedEx(CONFIG_ALPHA_LYNX) || definedEx(CONFIG_ALPHA_GENERIC))

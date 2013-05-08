@@ -1,0 +1,1 @@
+definedEx(CONFIG_CACHE_XSC3L2)

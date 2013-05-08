@@ -1,0 +1,1 @@
+(definedEx(CONFIG_PPPOATM) && definedEx(CONFIG_ATM))

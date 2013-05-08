@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SCSI_NCR_Q720) && definedEx(CONFIG_SCSI))

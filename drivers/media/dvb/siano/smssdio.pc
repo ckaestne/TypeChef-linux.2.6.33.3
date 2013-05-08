@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SMS_SDIO_DRV) && definedEx(CONFIG_DVB_CORE))

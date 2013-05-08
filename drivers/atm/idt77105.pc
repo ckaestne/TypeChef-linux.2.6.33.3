@@ -1,0 +1,1 @@
+(definedEx(CONFIG_ATM_NICSTAR_USE_IDT77105) && definedEx(CONFIG_ATM) && definedEx(CONFIG_ATM_NICSTAR))

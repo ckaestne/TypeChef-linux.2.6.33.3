@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SND_NM256) && definedEx(CONFIG_SND))

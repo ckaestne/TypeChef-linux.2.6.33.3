@@ -1,0 +1,1 @@
+definedEx(CONFIG_4xx_SOC)

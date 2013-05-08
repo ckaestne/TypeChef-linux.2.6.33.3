@@ -1,0 +1,1 @@
+(definedEx(CONFIG_ARCNET_RIM_I) && definedEx(CONFIG_ARCNET))

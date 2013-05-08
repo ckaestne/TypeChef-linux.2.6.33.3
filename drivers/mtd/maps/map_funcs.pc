@@ -1,0 +1,1 @@
+(definedEx(CONFIG_MTD_COMPLEX_MAPPINGS) && definedEx(CONFIG_MTD))

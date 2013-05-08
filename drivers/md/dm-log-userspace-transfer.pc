@@ -1,0 +1,1 @@
+(definedEx(CONFIG_DM_LOG_USERSPACE) && definedEx(CONFIG_MD))

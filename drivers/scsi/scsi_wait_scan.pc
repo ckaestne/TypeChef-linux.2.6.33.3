@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SCSI_WAIT_SCAN) && definedEx(CONFIG_SCSI))

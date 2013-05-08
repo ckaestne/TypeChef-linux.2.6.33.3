@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SND_HDA_CODEC_NVHDMI) && definedEx(CONFIG_SND) && definedEx(CONFIG_SND_HDA_INTEL))

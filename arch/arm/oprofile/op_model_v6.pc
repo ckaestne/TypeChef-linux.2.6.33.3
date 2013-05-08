@@ -1,0 +1,1 @@
+(definedEx(CONFIG_OPROFILE_ARMV6) && definedEx(CONFIG_OPROFILE))

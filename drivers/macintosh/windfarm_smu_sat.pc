@@ -1,0 +1,1 @@
+(definedEx(CONFIG_WINDFARM_PM112) || definedEx(CONFIG_WINDFARM_PM121))

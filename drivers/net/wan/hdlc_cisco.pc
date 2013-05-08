@@ -1,0 +1,1 @@
+(definedEx(CONFIG_HDLC_CISCO) && definedEx(CONFIG_WAN))

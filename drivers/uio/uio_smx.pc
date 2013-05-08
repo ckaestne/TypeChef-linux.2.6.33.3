@@ -1,0 +1,1 @@
+(definedEx(CONFIG_UIO_SMX) && definedEx(CONFIG_UIO))

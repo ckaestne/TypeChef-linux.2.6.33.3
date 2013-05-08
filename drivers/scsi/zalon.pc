@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SCSI_ZALON) && definedEx(CONFIG_SCSI))

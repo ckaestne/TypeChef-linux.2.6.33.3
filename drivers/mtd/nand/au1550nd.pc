@@ -1,0 +1,1 @@
+(definedEx(CONFIG_MTD_NAND_AU1550) && definedEx(CONFIG_MTD))

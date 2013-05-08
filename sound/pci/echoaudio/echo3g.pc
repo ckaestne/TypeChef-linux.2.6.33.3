@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SND_ECHO3G) && definedEx(CONFIG_SND))

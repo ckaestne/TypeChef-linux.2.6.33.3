@@ -1,0 +1,1 @@
+(definedEx(CONFIG_PCI) && (definedEx(CONFIG_DMAR) || definedEx(CONFIG_INTR_REMAP)))

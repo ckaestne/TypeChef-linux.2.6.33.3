@@ -1,0 +1,1 @@
+(definedEx(CONFIG_DVB_BT8XX) && definedEx(CONFIG_DVB_CORE))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_ATM_TCP) && definedEx(CONFIG_ATM))

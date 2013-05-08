@@ -1,0 +1,1 @@
+(definedEx(CONFIG_HDLC_RAW_ETH) && definedEx(CONFIG_WAN))

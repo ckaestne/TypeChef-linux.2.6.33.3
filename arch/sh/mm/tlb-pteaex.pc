@@ -1,0 +1,1 @@
+(definedEx(CONFIG_CPU_HAS_PTEAEX) && definedEx(CONFIG_MMU))

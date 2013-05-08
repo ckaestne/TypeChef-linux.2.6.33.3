@@ -1,0 +1,1 @@
+(definedEx(CONFIG_DVB_DIB3000MC) && definedEx(CONFIG_DVB_CORE))

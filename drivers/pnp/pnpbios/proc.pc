@@ -1,0 +1,1 @@
+(definedEx(CONFIG_PNPBIOS) && definedEx(CONFIG_PNP) && definedEx(CONFIG_PNPBIOS_PROC_FS))

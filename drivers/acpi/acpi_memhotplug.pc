@@ -1,0 +1,1 @@
+(definedEx(CONFIG_ACPI_HOTPLUG_MEMORY) && definedEx(CONFIG_ACPI))

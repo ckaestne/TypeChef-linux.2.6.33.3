@@ -1,0 +1,1 @@
+(definedEx(CONFIG_ACPI_PCI_SLOT) && definedEx(CONFIG_ACPI))

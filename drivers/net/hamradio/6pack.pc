@@ -1,0 +1,1 @@
+(definedEx(CONFIG_6PACK) && definedEx(CONFIG_HAMRADIO))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_IDE_LEGACY) && definedEx(CONFIG_IDE))

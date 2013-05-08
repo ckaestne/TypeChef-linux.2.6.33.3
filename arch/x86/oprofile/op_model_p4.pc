@@ -1,0 +1,1 @@
+(definedEx(CONFIG_X86_LOCAL_APIC) && definedEx(CONFIG_OPROFILE))

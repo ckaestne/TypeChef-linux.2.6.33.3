@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SND_PCM) && definedEx(CONFIG_SND) && definedEx(CONFIG_SND_DMA_SGBUF))

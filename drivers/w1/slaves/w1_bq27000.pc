@@ -1,0 +1,1 @@
+(definedEx(CONFIG_W1_SLAVE_BQ27000) && definedEx(CONFIG_W1))

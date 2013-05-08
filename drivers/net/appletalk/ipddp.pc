@@ -1,0 +1,1 @@
+(definedEx(CONFIG_IPDDP) && definedEx(CONFIG_DEV_APPLETALK))

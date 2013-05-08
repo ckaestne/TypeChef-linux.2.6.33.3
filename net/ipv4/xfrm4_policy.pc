@@ -1,0 +1,1 @@
+(definedEx(CONFIG_XFRM) && definedEx(CONFIG_INET))

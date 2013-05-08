@@ -1,0 +1,1 @@
+(definedEx(CONFIG_BT_HCIBPA10X) && definedEx(CONFIG_BT))

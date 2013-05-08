@@ -1,0 +1,1 @@
+(definedEx(CONFIG_RTC_DRV_WM831X) && definedEx(CONFIG_RTC_LIB))

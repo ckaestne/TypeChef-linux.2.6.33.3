@@ -1,0 +1,1 @@
+(definedEx(CONFIG_DMASOUND) && (definedEx(CONFIG_DMASOUND_ATARI) || definedEx(CONFIG_DMASOUND_PAULA) || definedEx(CONFIG_DMASOUND_Q40)))

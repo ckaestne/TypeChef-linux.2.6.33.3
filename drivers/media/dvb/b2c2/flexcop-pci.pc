@@ -1,0 +1,1 @@
+(definedEx(CONFIG_DVB_B2C2_FLEXCOP_PCI) && definedEx(CONFIG_DVB_CORE))

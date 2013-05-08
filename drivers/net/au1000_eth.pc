@@ -1,0 +1,1 @@
+definedEx(CONFIG_MIPS_AU1X00_ENET)

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_ELECTRA_CF) && definedEx(CONFIG_PCCARD))

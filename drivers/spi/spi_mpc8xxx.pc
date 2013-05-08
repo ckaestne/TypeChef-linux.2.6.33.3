@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SPI_MPC8xxx) && definedEx(CONFIG_SPI))

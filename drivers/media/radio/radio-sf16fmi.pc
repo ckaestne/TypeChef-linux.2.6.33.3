@@ -1,0 +1,1 @@
+(definedEx(CONFIG_RADIO_SF16FMI) && definedEx(CONFIG_VIDEO_DEV))

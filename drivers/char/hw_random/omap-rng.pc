@@ -1,0 +1,1 @@
+(definedEx(CONFIG_HW_RANDOM_OMAP) && definedEx(CONFIG_HW_RANDOM))

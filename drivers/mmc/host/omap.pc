@@ -1,0 +1,1 @@
+(definedEx(CONFIG_MMC_OMAP) && definedEx(CONFIG_MMC))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_INFINIBAND_CXGB3) && definedEx(CONFIG_INFINIBAND))

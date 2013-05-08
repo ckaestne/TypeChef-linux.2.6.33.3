@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SAM440EP) && definedEx(CONFIG_44x))

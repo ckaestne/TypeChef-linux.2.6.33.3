@@ -1,0 +1,1 @@
+(definedEx(CONFIG_MTD_FORTUNET) && definedEx(CONFIG_MTD))

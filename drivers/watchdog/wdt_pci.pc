@@ -1,0 +1,1 @@
+(definedEx(CONFIG_WDTPCI) && definedEx(CONFIG_WATCHDOG))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SPI_ORION) && definedEx(CONFIG_SPI))

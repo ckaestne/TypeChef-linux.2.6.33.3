@@ -1,0 +1,1 @@
+(definedEx(CONFIG_UWB_I1480U) && definedEx(CONFIG_UWB) && definedEx(CONFIG_UWB_I1480U_WLP))

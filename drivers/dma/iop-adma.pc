@@ -1,0 +1,1 @@
+(definedEx(CONFIG_INTEL_IOP_ADMA) && definedEx(CONFIG_DMA_ENGINE))

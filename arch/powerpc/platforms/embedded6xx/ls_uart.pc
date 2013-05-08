@@ -1,0 +1,1 @@
+(definedEx(CONFIG_LINKSTATION) && definedEx(CONFIG_EMBEDDED6xx))

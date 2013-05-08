@@ -1,0 +1,1 @@
+definedEx(CONFIG_FB_BFIN_LQ035Q1)

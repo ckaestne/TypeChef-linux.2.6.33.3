@@ -1,0 +1,1 @@
+(definedEx(CONFIG_PXA_FICP) && definedEx(CONFIG_IRDA))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_GARP) && definedEx(CONFIG_NET))

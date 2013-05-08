@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SSB_DRIVER_MIPS) && definedEx(CONFIG_SSB))

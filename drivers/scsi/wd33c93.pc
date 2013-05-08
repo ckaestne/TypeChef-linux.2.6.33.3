@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SCSI) && (definedEx(CONFIG_SGIWD93_SCSI) || definedEx(CONFIG_MVME147_SCSI) || definedEx(CONFIG_GVP11_SCSI) || definedEx(CONFIG_A2091_SCSI) || definedEx(CONFIG_A3000_SCSI)))

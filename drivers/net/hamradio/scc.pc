@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SCC) && definedEx(CONFIG_HAMRADIO))

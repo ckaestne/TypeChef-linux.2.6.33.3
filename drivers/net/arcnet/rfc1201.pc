@@ -1,0 +1,1 @@
+(definedEx(CONFIG_ARCNET_1201) && definedEx(CONFIG_ARCNET))

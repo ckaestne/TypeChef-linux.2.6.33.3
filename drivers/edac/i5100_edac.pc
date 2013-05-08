@@ -1,0 +1,1 @@
+(definedEx(CONFIG_EDAC_I5100) && definedEx(CONFIG_EDAC))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_MMC_CB710) && definedEx(CONFIG_MMC))

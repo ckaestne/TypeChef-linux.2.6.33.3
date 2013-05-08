@@ -1,0 +1,1 @@
+(definedEx(CONFIG_DVB_TDA10048) && definedEx(CONFIG_DVB_CORE))

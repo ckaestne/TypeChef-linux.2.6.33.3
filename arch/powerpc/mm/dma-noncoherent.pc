@@ -1,0 +1,1 @@
+definedEx(CONFIG_NOT_COHERENT_CACHE)

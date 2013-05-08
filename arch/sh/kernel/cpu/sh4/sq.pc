@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SH_STORE_QUEUES) && definedEx(CONFIG_CPU_SH4))

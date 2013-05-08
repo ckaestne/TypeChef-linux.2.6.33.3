@@ -1,0 +1,1 @@
+(definedEx(CONFIG_IA64_GENERIC) || definedEx(CONFIG_IA64_XEN_GUEST) || definedEx(CONFIG_IA64_DIG_VTD) || definedEx(CONFIG_IA64_DIG) || definedEx(CONFIG_IA64_HP_ZX1) || definedEx(CONFIG_IA64_HP_ZX1_SWIOTLB))

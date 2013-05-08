@@ -1,0 +1,1 @@
+(definedEx(CONFIG_USB_DSBR) && definedEx(CONFIG_VIDEO_DEV))

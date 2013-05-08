@@ -1,0 +1,1 @@
+(definedEx(CONFIG_AGP_SWORKS) && definedEx(CONFIG_AGP))

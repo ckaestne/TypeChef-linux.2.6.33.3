@@ -1,0 +1,1 @@
+(definedEx(CONFIG_ISDN_DRV_ICN) && definedEx(CONFIG_ISDN))

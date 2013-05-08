@@ -1,0 +1,1 @@
+(definedEx(CONFIG_DVB_USB_DIBUSB_MC) && definedEx(CONFIG_DVB_CORE))

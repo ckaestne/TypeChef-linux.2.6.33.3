@@ -1,0 +1,1 @@
+(definedEx(CONFIG_NFSD_V3_ACL) && definedEx(CONFIG_NFSD))

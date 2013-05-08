@@ -1,0 +1,1 @@
+definedEx(CONFIG_EARLY_PRINTK)

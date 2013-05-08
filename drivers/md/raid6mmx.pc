@@ -1,0 +1,1 @@
+(definedEx(CONFIG_MD_RAID6_PQ) && definedEx(CONFIG_MD))

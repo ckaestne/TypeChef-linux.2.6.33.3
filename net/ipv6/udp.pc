@@ -1,0 +1,1 @@
+definedEx(CONFIG_IPV6)

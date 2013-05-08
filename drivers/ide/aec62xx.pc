@@ -1,0 +1,1 @@
+(definedEx(CONFIG_BLK_DEV_AEC62XX) && definedEx(CONFIG_IDE))

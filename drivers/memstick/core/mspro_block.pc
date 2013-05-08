@@ -1,0 +1,1 @@
+(definedEx(CONFIG_MSPRO_BLOCK) && definedEx(CONFIG_MEMSTICK))

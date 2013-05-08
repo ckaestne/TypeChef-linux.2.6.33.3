@@ -1,0 +1,1 @@
+(definedEx(CONFIG_HPLANCE) || definedEx(CONFIG_MVME147_NET))

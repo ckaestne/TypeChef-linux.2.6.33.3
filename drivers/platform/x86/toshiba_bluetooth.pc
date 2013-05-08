@@ -1,0 +1,1 @@
+(definedEx(CONFIG_TOSHIBA_BT_RFKILL) && definedEx(CONFIG_X86))

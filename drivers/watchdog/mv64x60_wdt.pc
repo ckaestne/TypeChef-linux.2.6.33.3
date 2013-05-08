@@ -1,0 +1,1 @@
+(definedEx(CONFIG_MV64X60_WDT) && definedEx(CONFIG_WATCHDOG))

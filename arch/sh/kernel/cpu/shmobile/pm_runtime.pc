@@ -1,0 +1,1 @@
+(definedEx(CONFIG_PM_RUNTIME) && definedEx(CONFIG_ARCH_SHMOBILE))

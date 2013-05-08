@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SCSI_DMX3191D) && definedEx(CONFIG_SCSI))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SND_HWDEP) && definedEx(CONFIG_SND))

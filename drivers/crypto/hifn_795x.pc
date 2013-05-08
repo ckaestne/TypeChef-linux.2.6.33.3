@@ -1,0 +1,1 @@
+(definedEx(CONFIG_CRYPTO_DEV_HIFN_795X) && definedEx(CONFIG_CRYPTO))

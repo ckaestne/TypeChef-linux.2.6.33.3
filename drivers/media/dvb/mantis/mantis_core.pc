@@ -1,0 +1,1 @@
+(definedEx(CONFIG_MANTIS_CORE) && definedEx(CONFIG_DVB_CORE))

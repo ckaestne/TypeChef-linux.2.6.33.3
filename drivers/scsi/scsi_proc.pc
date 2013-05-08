@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SCSI_PROC_FS) && definedEx(CONFIG_SCSI))

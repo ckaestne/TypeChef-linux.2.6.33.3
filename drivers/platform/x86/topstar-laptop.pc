@@ -1,0 +1,1 @@
+(definedEx(CONFIG_TOPSTAR_LAPTOP) && definedEx(CONFIG_X86))

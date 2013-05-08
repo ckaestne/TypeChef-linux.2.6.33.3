@@ -1,0 +1,1 @@
+(definedEx(CONFIG_TTPCI_EEPROM) && definedEx(CONFIG_DVB_CORE))

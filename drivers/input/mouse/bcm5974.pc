@@ -1,0 +1,1 @@
+(definedEx(CONFIG_INPUT_MOUSE) && definedEx(CONFIG_INPUT) && definedEx(CONFIG_MOUSE_BCM5974))

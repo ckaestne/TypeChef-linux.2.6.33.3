@@ -1,0 +1,1 @@
+(definedEx(CONFIG_WARP) && definedEx(CONFIG_44x))

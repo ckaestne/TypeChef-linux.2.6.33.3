@@ -1,0 +1,1 @@
+(definedEx(CONFIG_MTD_PLATRAM) && definedEx(CONFIG_MTD))

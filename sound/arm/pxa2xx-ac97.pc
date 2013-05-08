@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SND_PXA2XX_AC97) && definedEx(CONFIG_SND))

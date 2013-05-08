@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SND_SUN_AMD7930) && definedEx(CONFIG_SND))

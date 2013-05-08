@@ -1,0 +1,1 @@
+(definedEx(CONFIG_AGP_HP_ZX1) && definedEx(CONFIG_AGP))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_B43_DEBUG) && definedEx(CONFIG_B43))

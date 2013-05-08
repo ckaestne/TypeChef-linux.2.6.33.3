@@ -1,0 +1,1 @@
+(definedEx(CONFIG_DMASOUND_Q40) && definedEx(CONFIG_DMASOUND))

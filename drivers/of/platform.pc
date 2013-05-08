@@ -1,0 +1,1 @@
+(definedEx(CONFIG_OF_DEVICE) && definedEx(CONFIG_OF))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_CAN_BFIN) && definedEx(CONFIG_CAN))

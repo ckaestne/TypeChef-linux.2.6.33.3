@@ -1,0 +1,1 @@
+definedEx(CONFIG_MMU_NOTIFIER)

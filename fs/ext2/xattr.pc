@@ -1,0 +1,1 @@
+(definedEx(CONFIG_EXT2_FS_XATTR) && definedEx(CONFIG_EXT2_FS))

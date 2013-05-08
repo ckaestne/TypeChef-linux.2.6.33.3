@@ -1,0 +1,1 @@
+(definedEx(CONFIG_CB710_DEBUG) && definedEx(CONFIG_CB710_CORE))

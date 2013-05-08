@@ -1,0 +1,1 @@
+(definedEx(CONFIG_IDE_XFER_MODE) && definedEx(CONFIG_IDE))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_MTD_DBOX2) && definedEx(CONFIG_MTD))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_PCMCIA_SMC91C92) && definedEx(CONFIG_NET_PCMCIA))

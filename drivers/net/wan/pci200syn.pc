@@ -1,0 +1,1 @@
+(definedEx(CONFIG_PCI200SYN) && definedEx(CONFIG_WAN))

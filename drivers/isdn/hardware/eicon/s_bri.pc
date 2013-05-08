@@ -1,0 +1,1 @@
+(definedEx(CONFIG_CAPI_EICON) && definedEx(CONFIG_ISDN) && definedEx(CONFIG_ISDN_DIVAS) && definedEx(CONFIG_ISDN_DIVAS_BRIPCI))

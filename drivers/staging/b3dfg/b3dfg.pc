@@ -1,0 +1,1 @@
+(definedEx(CONFIG_B3DFG) && definedEx(CONFIG_STAGING))

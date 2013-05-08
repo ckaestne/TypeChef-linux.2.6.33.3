@@ -1,0 +1,1 @@
+definedEx(CONFIG_SNI_82596)

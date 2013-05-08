@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SND_SUN_DBRI) && definedEx(CONFIG_SND))

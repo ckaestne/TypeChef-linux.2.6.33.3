@@ -1,0 +1,1 @@
+(definedEx(CONFIG_FB_CARILLO_RANCH) && definedEx(CONFIG_FB_LE80578))

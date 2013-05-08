@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SC520_WDT) && definedEx(CONFIG_WATCHDOG))

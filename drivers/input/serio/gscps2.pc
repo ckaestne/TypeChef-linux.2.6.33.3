@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SERIO_GSCPS2) && definedEx(CONFIG_SERIO))

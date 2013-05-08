@@ -1,0 +1,1 @@
+(definedEx(CONFIG_RT2500USB) && definedEx(CONFIG_RT2X00))

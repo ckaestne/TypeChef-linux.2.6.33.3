@@ -1,0 +1,1 @@
+(definedEx(CONFIG_MTD_RBTX4939) && definedEx(CONFIG_MTD))

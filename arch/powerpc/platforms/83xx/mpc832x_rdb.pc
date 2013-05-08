@@ -1,0 +1,1 @@
+(definedEx(CONFIG_MPC832x_RDB) && definedEx(CONFIG_PPC_83xx))

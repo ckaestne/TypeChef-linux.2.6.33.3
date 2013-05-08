@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SND_DARLA20) && definedEx(CONFIG_SND))

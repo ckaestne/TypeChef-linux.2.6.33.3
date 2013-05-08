@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SND_PORTMAN2X4) && definedEx(CONFIG_SND))

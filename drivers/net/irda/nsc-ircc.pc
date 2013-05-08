@@ -1,0 +1,1 @@
+(definedEx(CONFIG_NSC_FIR) && definedEx(CONFIG_IRDA))

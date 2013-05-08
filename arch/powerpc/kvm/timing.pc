@@ -1,0 +1,1 @@
+(definedEx(CONFIG_KVM_EXIT_TIMING) && definedEx(CONFIG_KVM))

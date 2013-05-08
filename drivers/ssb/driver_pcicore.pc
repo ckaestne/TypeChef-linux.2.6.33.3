@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SSB_DRIVER_PCICORE) && definedEx(CONFIG_SSB))

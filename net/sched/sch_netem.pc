@@ -1,0 +1,1 @@
+(definedEx(CONFIG_NET_SCH_NETEM) && definedEx(CONFIG_NET))

@@ -1,0 +1,1 @@
+(definedEx(CONFIG_JOLIET) && definedEx(CONFIG_ISO9660_FS))

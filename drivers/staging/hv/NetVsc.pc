@@ -1,0 +1,1 @@
+(definedEx(CONFIG_HYPERV) && definedEx(CONFIG_STAGING) && definedEx(CONFIG_HYPERV_NET))

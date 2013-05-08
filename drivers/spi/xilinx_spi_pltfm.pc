@@ -1,0 +1,1 @@
+(definedEx(CONFIG_SPI_XILINX_PLTFM) && definedEx(CONFIG_SPI))
