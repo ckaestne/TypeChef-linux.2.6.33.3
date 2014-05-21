@@ -35,18 +35,10 @@
 #define udf_find_next_one_bit(addr, size, offset) \
 		find_next_one_bit(addr, size, offset)
 
-#if BITS_PER_LONG==64
-#define leBPL_to_cpup(x) leNUM_to_cpup(64, x)
-#else
-#define leBPL_to_cpup(x) leNUM_to_cpup(32, x)
-#endif
+#define leBPL_to_cpup(x) leNUM_to_cpup(BITS_PER_LONG, x)
 #define leNUM_to_cpup(x, y) xleNUM_to_cpup(x, y)
 #define xleNUM_to_cpup(x, y) (le ## x ## _to_cpup(y))
-#if BITS_PER_LONG==64
-#define uintBPL_t uint(64)
-#else
-#define uintBPL_t uint(32)
-#endif
+#define uintBPL_t uint(BITS_PER_LONG)
 #define uint(x) xuint(x)
 #define xuint(x) __le ## x
 

@@ -71,14 +71,3 @@ GTAGS
 *.orig
 *~
 \#*#
-*.dbg
-*.pi
-*.pi.*
-*.c.xml
-*.err
-*.interface
-*.time
-*.i.xml
-*.dbg.init
-_dir.*
-db.properties

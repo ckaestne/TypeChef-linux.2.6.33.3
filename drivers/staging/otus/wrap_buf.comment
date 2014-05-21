@@ -1,5 +1,0 @@
-found actual warning about assignment without cast (only 64bit)
-
-drivers/staging/otus/wrap_buf.c: In function ‘zfwBufCopy’:
-drivers/staging/otus/wrap_buf.c:83:15: warning: assignment makes integer from pointer without a cast [enabled by default]
-

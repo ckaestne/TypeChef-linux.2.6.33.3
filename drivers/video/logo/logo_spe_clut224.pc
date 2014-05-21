@@ -1,1 +1,0 @@
-(definedEx(CONFIG_SPU_BASE) && definedEx(CONFIG_LOGO))

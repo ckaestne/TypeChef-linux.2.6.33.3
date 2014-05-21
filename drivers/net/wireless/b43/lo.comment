@@ -1,1 +1,0 @@
-strange problem where b43_phy.g is either in a struct or union depending on a feature. ignore for now?

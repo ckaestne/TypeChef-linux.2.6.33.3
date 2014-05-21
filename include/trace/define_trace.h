@@ -51,21 +51,19 @@
 # define UNDEF_TRACE_INCLUDE_FILE
 #endif
 
+#ifndef TRACE_INCLUDE_PATH
+# define __TRACE_INCLUDE(system) <trace/events/system.h>
+# define UNDEF_TRACE_INCLUDE_PATH
+#else
+# define __TRACE_INCLUDE(system) __stringify(TRACE_INCLUDE_PATH/system.h)
+#endif
+
 # define TRACE_INCLUDE(system) __TRACE_INCLUDE(system)
 
 /* Let the trace headers be reread */
 #define TRACE_HEADER_MULTI_READ
 
-#ifndef TRACE_INCLUDE_PATH
-# define __TRACE_INCLUDE(system) <trace/events/system.h>
-# define UNDEF_TRACE_INCLUDE_PATH
-
 #include TRACE_INCLUDE(TRACE_INCLUDE_FILE)
-#else
-# define __TRACE_INCLUDE(system) __stringify(TRACE_INCLUDE_PATH/system.h)
-
-#include TRACE_INCLUDE(TRACE_INCLUDE_FILE)
-#endif
 
 #ifdef CONFIG_EVENT_TRACING
 #include <trace/ftrace.h>

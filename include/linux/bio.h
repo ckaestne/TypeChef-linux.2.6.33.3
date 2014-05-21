@@ -31,7 +31,7 @@
 #define BIO_DEBUG
 
 #ifdef BIO_DEBUG
-#define BIO_BUG_ON(x)	BUG_ON(x)
+#define BIO_BUG_ON	BUG_ON
 #else
 #define BIO_BUG_ON
 #endif

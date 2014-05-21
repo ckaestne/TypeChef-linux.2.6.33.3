@@ -32,11 +32,11 @@
 #include "fb_draw.h"
 
 #if BITS_PER_LONG == 32
-#  define FB_WRITEL(a,b) fb_writel(a,b)
-#  define FB_READL(a)  fb_readl(a)
+#  define FB_WRITEL fb_writel
+#  define FB_READL  fb_readl
 #else
-#  define FB_WRITEL(a,b) fb_writeq(a,b)
-#  define FB_READL(a)  fb_readq(a)
+#  define FB_WRITEL fb_writeq
+#  define FB_READL  fb_readq
 #endif
 
     /*

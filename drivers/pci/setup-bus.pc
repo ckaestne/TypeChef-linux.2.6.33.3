@@ -1,1 +1,1 @@
-(definedEx(CONFIG_PCI) && (definedEx(CONFIG_MN10300) || definedEx(CONFIG_PPC) || definedEx(CONFIG_ALPHA) || definedEx(CONFIG_ARM) || definedEx(CONFIG_SUPERH) || definedEx(CONFIG_HOTPLUG) || definedEx(CONFIG_MIPS) || definedEx(CONFIG_X86) || definedEx(CONFIG_PARISC)))
+(definedEx(CONFIG_PCI) && (definedEx(CONFIG_PARISC) || definedEx(CONFIG_MN10300) || definedEx(CONFIG_X86) || definedEx(CONFIG_SUPERH) || definedEx(CONFIG_MIPS) || definedEx(CONFIG_HOTPLUG) || definedEx(CONFIG_PPC) || definedEx(CONFIG_ALPHA) || definedEx(CONFIG_ARM)))
