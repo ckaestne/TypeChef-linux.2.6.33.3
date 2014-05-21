@@ -1,0 +1,5 @@
+maybe FM problem, complex to reproduce
+
+problem unless WEXT_CORE => WIRELESS_EXT 
+could not produce counter example, since both are not user selectable
+but depend on other options

@@ -1,3 +1,1 @@
-probably type warning; not sure whether typechef incorrectly determines different types or whether this is really an implementation problem
-
-anyway, in gcc this is just a warning
+expression error

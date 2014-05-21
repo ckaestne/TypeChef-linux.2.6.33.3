@@ -1,0 +1,3 @@
+VIOCD is not part of the feature model but of the presence constraints
+
+the SAT solver doesn't recognize that it cannot be loaded in the current impl.
